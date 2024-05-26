@@ -367,27 +367,27 @@ Organizers:
 
 
 
-# Open Catalyst Challenge
+<!-- # Open Catalyst Challenge -->
 
 <!-- The Open Catalyst Challenge 2023 invites participants to help address the pressing challenges faced by the world due to energy scarcity and climate change. In this area, a critical problem is the discovery of new catalysts for driving efficient and carbon-neutral means for energy storage and conversion.
 
 Over the past two years, the Open Catalyst Challenge has focused on the central task of relaxed (local minimum) energy prediction. This year’s task of determining the adsorption energy (global minimum) will require relaxed energy prediction as a subtask. -->
 
 
-{% include team.html id="opencatalyst" %}
+<!-- {% include team.html id="opencatalyst" %} -->
 
 
 
 
 
 # Important Dates (Anywhere on Earth)
-
+<!-- 
 - Abstract Submission Deadline: Sept 30, 2023
 - Paper Submission Deadline: Oct 2, 2023
 - Review Bidding Period: Oct 2-4, 2023
 - Reviewer Deadline: Oct 24, 2023
 - Acceptance Notification Date: Oct 27, 2023
-- Workshop Date: Dec 16, 2023
+- Workshop Date: Dec 16, 2023 -->
 
 
 
@@ -398,7 +398,7 @@ Please submit your paper in Openreview. Our workshop is **nonarchival**, the acc
 
 # Organizers and Contact
 
-Organizers are in alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
+<!-- Organizers are in alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com). -->
 
 
 ## Organizers 
@@ -425,7 +425,7 @@ Organizers are in alphabetical order. For any question, please contact [ai4scien
 </ul> -->
 
 
-## AI4Science Team 
+## CRL Team 
 
 <ul>
 {% for p in page.OtherStudentOrganizers %}
