@@ -338,7 +338,7 @@ Organizers:
 
 # About
 
-For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting edge of AI going forward. We are particularly interested in the following topics:
+<!-- For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting edge of AI going forward. We are particularly interested in the following topics:
 
 - **Solving grand challenges in structural biology**
 
@@ -348,14 +348,14 @@ For centuries, the method of discovery—the fundamental practice of science tha
 
 - **Incorporating physical insights to AI methods**
 
-- **Accelerating drug discovery pipeline**
+- **Accelerating drug discovery pipeline** -->
 
 
 
 
 ## Follow Us
 
-Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ) for active discussions.
+<!-- Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ) for active discussions. -->
 
 # Invited Talks (In alphabetical order)
 
@@ -369,9 +369,9 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 # Open Catalyst Challenge
 
-The Open Catalyst Challenge 2023 invites participants to help address the pressing challenges faced by the world due to energy scarcity and climate change. In this area, a critical problem is the discovery of new catalysts for driving efficient and carbon-neutral means for energy storage and conversion.
+<!-- The Open Catalyst Challenge 2023 invites participants to help address the pressing challenges faced by the world due to energy scarcity and climate change. In this area, a critical problem is the discovery of new catalysts for driving efficient and carbon-neutral means for energy storage and conversion.
 
-Over the past two years, the Open Catalyst Challenge has focused on the central task of relaxed (local minimum) energy prediction. This year’s task of determining the adsorption energy (global minimum) will require relaxed energy prediction as a subtask.
+Over the past two years, the Open Catalyst Challenge has focused on the central task of relaxed (local minimum) energy prediction. This year’s task of determining the adsorption energy (global minimum) will require relaxed energy prediction as a subtask. -->
 
 
 {% include team.html id="opencatalyst" %}
