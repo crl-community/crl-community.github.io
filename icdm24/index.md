@@ -22,6 +22,52 @@ speakers:
     interest: 
     image: assets/images/YanLiu.png 
 
+
+  - name: Ricardo Silva
+    url: https://www.homepages.ucl.ac.uk/~ucgtrbd/
+    topic: 
+    aff: University College London
+    interest: 
+    image: assets/images/ricardo.png 
+
+  - name: Qingyuan Zhao
+    url: https://www.statslab.cam.ac.uk/~qz280/
+    topic: 
+    aff: University of Cambridge
+    interest: 
+    image: assets/images/qingyuan.png 
+
+  - name: Biwei Huang
+    url: https://biweihuang.com/
+    topic: 
+    aff: University of California, San Diego, USA
+    interest: 
+    image: assets/images/biwei.png 
+
+  - name: Jean-Francois Ton
+    url:  https://savior287.github.io/JFT-webpage/
+    topic: 
+    aff: ByteDance Research, UK
+    interest: 
+    image: assets/images/jean.png 
+
+
+  - name: Cheng Zhang
+    url:  https://cheng-zhang.org/
+    topic: 
+    aff: Microsoft Research, UK
+    interest: 
+    image: assets/images/chengzhang.png 
+
+
+  - name: Ruocheng Guo
+    url:  https://rguo12.github.io/
+    topic: 
+    aff: ByteDance Research, UK
+    interest: 
+    image: assets/images/ruocheng.png 
+
+
   # - name: Kyle Cranmer  
   #   url: https://www.physics.wisc.edu/directory/cranmer-kyle/ 
   #   topic: 
@@ -105,6 +151,66 @@ Panelist:
 #     aff: FAIR, Meta
 #     interest: AI, Chemistry
 #     image: assets/images/brandon.jpeg 
+
+  - name: Mihaela van der Schaar
+    url: https://www.vanderschaar-lab.com/
+    topic: 
+    aff: University of Cambridge
+    interest: 
+    image: assets/images/mihaela.png
+
+
+  - name: Yan Liu
+    url: https://sites.google.com/view/yanliu-ai/home
+    topic: 
+    aff: University of Southern California
+    interest: 
+    image: assets/images/YanLiu.png 
+
+
+  - name: Ricardo Silva
+    url: https://www.homepages.ucl.ac.uk/~ucgtrbd/
+    topic: 
+    aff: University College London
+    interest: 
+    image: assets/images/ricardo.png 
+
+  - name: Qingyuan Zhao
+    url: https://www.statslab.cam.ac.uk/~qz280/
+    topic: 
+    aff: University of Cambridge
+    interest: 
+    image: assets/images/qingyuan.png 
+
+  - name: Biwei Huang
+    url: https://biweihuang.com/
+    topic: 
+    aff: University of California, San Diego, USA
+    interest: 
+    image: assets/images/biwei.png 
+
+  - name: Jean-Francois Ton
+    url:  https://savior287.github.io/JFT-webpage/
+    topic: 
+    aff: ByteDance Research, UK
+    interest: 
+    image: assets/images/jean.png 
+
+
+  - name: Cheng Zhang
+    url:  https://cheng-zhang.org/
+    topic: 
+    aff: Microsoft Research, UK
+    interest: 
+    image: assets/images/chengzhang.png 
+
+
+  - name: Ruocheng Guo
+    url:  https://rguo12.github.io/
+    topic: 
+    aff: ByteDance Research, UK
+    interest: 
+    image: assets/images/ruocheng.png 
 
 
 
@@ -402,7 +508,7 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 Please submit your paper in Openreview. Our workshop is **nonarchival**, the accepted papers will be posted on our website. 
 
 
-# Organizers and Contact
+<!-- # Organizers and Contact -->
 
 <!-- Organizers are in alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com). -->
 
