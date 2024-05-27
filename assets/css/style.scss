@@ -3,3 +3,13 @@
 
 @import 'bootstrap/bootstrap';
 @import 'jekyll-theme-cayman';
+
+.page-header {
+    background-image: url('{{ '/assets/images/abu-dhabi.jpg' | relative_url }}');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white; /* Optional: if you want the text color to contrast with the background image */
+    padding: 20px; /* Adjust padding as needed */
+}
+
