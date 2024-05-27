@@ -216,6 +216,7 @@ Panelist:
 
 OtherStudentOrganizers:
 
+
   # - name: Yuanqi Du (Cornell)
   #   url: https://yuanqidu.github.io/
   #   image: assets/images/test.jpeg
@@ -332,6 +333,46 @@ OtherStudentOrganizers:
 
 
 Organizers:
+
+  - name: Mingming Gong
+    url: https://mingming-gong.github.io/
+    aff: The University of Melbourne / Mohamed bin Zayed University of Artificial Intelligence
+    image: assets/images/Minging.jpg
+
+  - name: Guangyi Chen
+    url: https://chengy12.github.io
+    aff: Carnegie Mellon University / Mohamed bin Zayed University of Artificial Intelligence
+    image: assets/images/cgy.jpg
+
+  - name: Haoxuan Li
+    url: https://scholar.google.com/citations?user=gtDqiucAAAAJ&hl=en
+    aff: Peking University
+    image: assets/images/haoxuan.jpg
+
+  - name: Mengyue Yang
+    url: https://ymy4323460.github.io
+    aff: University College London
+    image: assets/images/mengyue.jpg 
+
+  - name: Defu Cao
+    url: https://idevede.github.io
+    aff: University of Southern California
+    image: assets/images/mengyue.jpg 
+
+  - name: XiangChen Song
+    url: https://xiangchensong.github.io/
+    aff: Carnegie Mellon University
+    image: assets/images/xiangchen.jpg 
+
+  - name: Bo Han
+    url: https://bhanml.github.io/
+    aff: Hong Kong Baptist University / RIKEN
+    image: assets/images/bohan.jpg 
+
+  - name: Tongliang Liu
+    url: https://tongliang-liu.github.io
+    aff: University of Sydney / Mohamed bin Zayed University of Artificial Intelligence / RIKEN
+    image: assets/images/Tongliang.jpg 
 
   # - name: Max Welling
   #   url: https://staff.fnwi.uva.nl/m.welling
@@ -471,13 +512,14 @@ In this workshop, we discuss both theoretical and applied aspects of CRL, which 
 
 <!-- Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ) for active discussions. -->
 
-# Invited Talks (In alphabetical order)
+<!-- # Invited Talks   (In alphabetical order) -->
+# Invited Speakers and Panelist
 
 {% include team.html id="speakers" %}
 
-# Panel Discussion
+<!-- # Panel Discussion
 
-{% include team.html id="Panelist" %}
+{% include team.html id="Panelist" %} -->
 
 
 
@@ -513,7 +555,7 @@ Please submit your paper in Openreview. Our workshop is **nonarchival**, the acc
 <!-- Organizers are in alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com). -->
 
 
-## Organizers 
+## Organizers: CRL Team 
 
 {% include team.html id="Organizers" %}
 
@@ -537,7 +579,7 @@ Please submit your paper in Openreview. Our workshop is **nonarchival**, the acc
 </ul> -->
 
 
-## CRL Team 
+<!-- ## CRL Team 
 
 <ul>
 {% for p in page.OtherStudentOrganizers %}
@@ -545,7 +587,7 @@ Please submit your paper in Openreview. Our workshop is **nonarchival**, the acc
 <a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
 </li>
 {% endfor %}
-</ul>
+</ul> -->
 
 
 
