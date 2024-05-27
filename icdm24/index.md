@@ -7,20 +7,20 @@ permalink: /icdm24
 
 speakers:
 
-  # - name: Alán Aspuru-Guzik   
-  #   url: https://scholar.google.com/citations?user=Ag_6KEgAAAAJ&hl=en 
-  #   topic: 
-  #   aff: University of Toronto
-  #   interest: AI, Chemistry
-  #   image: assets/images/alan.png 
+  - name: Alán Aspuru-Guzik   
+    url: https://scholar.google.com/citations?user=Ag_6KEgAAAAJ&hl=en 
+    topic: 
+    aff: University of Toronto
+    interest: AI, Chemistry
+    image: assets/images/alan.png 
 
 
-  # - name: Steven Brunton  
-  #   url: https://www.me.washington.edu/facultyfinder/steve-brunton 
-  #   topic: 
-  #   aff: University of Washington
-  #   interest: AI, Control and Simulation
-  #   image: assets/images/steven_brunton.png 
+  - name: Steven Brunton  
+    url: https://www.me.washington.edu/facultyfinder/steve-brunton 
+    topic: 
+    aff: University of Washington
+    interest: AI, Control and Simulation
+    image: assets/images/steven_brunton.png 
 
   # - name: Kyle Cranmer  
   #   url: https://www.physics.wisc.edu/directory/cranmer-kyle/ 
@@ -338,22 +338,30 @@ Organizers:
 
 # About
 
-<!-- For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting edge of AI going forward. We are particularly interested in the following topics:
+The connection between causality and AI/ML has become increasingly important in recent years, as more and more organizations seek to use AI/ML to make decisions in a variety of domains that like healthcare, finance, transportation, and more. While recent data-driven AI techniques, especially deep representation learning, have shown great promise in areas that involve data analysis, they have also been criticized for their lack of interpretability, explainability, and transparency, which can limit the trustworthiness, accountability, and reliability of AI/ML systems. Additionally, the correlations embedded in the data, which is identified by current cutting-edge models such as GPT-4 and Llama do not necessarily imply causation, which can further lead to issues like spurious correlations or algorithmic bias when such mismatch are not properly explained and addressed. Recently, causal representations have shown great potential in understanding the generating process behind data and provide a framework for understanding how machine learning models make decisions through investigating the underlying causal relationships between variables. By incorporating causal representation learning (CRL), researchers and practitioners can better understand how different features or inputs contribute to the outcome of interest and identify potential sources of bias or confounding that could affect the decision-making and further generalizations.
 
-- **Solving grand challenges in structural biology**
+Moreover, from a data-centric perspective, this workshop will focus on both automatic knowledge construction utilizing causal representations discovered from pure data and knowledge enhancement based on domain expert knowledge in real-world applications. Leveraging these causal insights, practitioners can strengthen the robustness and reliability of AI/ML systems deployed in real problems, ensuring that decisions made by the intelligent system are not only data-driven but also grounded to a deeper understanding of the causal mechanism behind. 
 
-- **Scaling dynamical system modeling to millions of particles**
+In this workshop, we discuss both theoretical and applied aspects of CRL, which includes but not limited to the following topics:
 
-- **Visualizing the unimaginable black hole**
+- **Theory of causal representation learning**
 
-- **Incorporating physical insights to AI methods**
+- **Causal representation learning models**
 
-- **Accelerating drug discovery pipeline** -->
+- **Causal generative models**
+
+- **Causal foundation models**
+
+- **Causal discovery with latent variables**
+
+- **Causal representation learning for treatment effect estimation**
+
+- **Causal representation learning in data mining**
+
+- **Causal representation learning in recommendation systems**
 
 
-
-
-## Follow Us
+<!-- ## Follow Us -->
 
 <!-- Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ) for active discussions. -->
 
