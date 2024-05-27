@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: "en-US" }}">
+  <head>
+    <link rel="shortcut icon" href="/assets/images/logo.png">
+    <meta charset="UTF-8">
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      .hero {
+        background-color: #1d2830;
+        height: 660px;
+        position: relative;
+      }
+
+      .hero-background-placeholder {
+        background-color: #1d2830;
+        mix-blend-mode: overlay;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+
+      .hero-text {
+        color: #FFFFFF;
+        position: relative;
+        z-index: 1;
+      }
+
+      .container {
+        position: relative;
+        z-index: 1;
+      }
+    </style>
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <a href="/about.html" class="btn">About</a>
+      <a href="/call.html" class="btn">Call for Papers</a>
+      <a href="/" class="btn">Back</a>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      <div class="hero hero-fullscreen-mobile">
+        <div class="hero-background-placeholder"></div>
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-8">
+              <div class="hero-text">
+                <h1>ICDM 2024</h1>
+                <p>The world’s premier research conference in Data Mining <br/> 9-12 December 2024, Abu Dhabi, UAE</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ content }}
+    </main>
+  </body>
+</html>
