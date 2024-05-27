@@ -7,20 +7,20 @@ permalink: /icdm24
 
 speakers:
 
-  - name: Alán Aspuru-Guzik   
-    url: https://scholar.google.com/citations?user=Ag_6KEgAAAAJ&hl=en 
+  - name: Mihaela van der Schaar
+    url: https://www.vanderschaar-lab.com/
     topic: 
-    aff: University of Toronto
-    interest: AI, Chemistry
-    image: assets/images/alan.png 
+    aff: University of Cambridge
+    interest: 
+    image: assets/images/mihaela.png
 
 
-  - name: Steven Brunton  
-    url: https://www.me.washington.edu/facultyfinder/steve-brunton 
+  - name: Yan Liu
+    url: https://sites.google.com/view/yanliu-ai/home
     topic: 
-    aff: University of Washington
-    interest: AI, Control and Simulation
-    image: assets/images/steven_brunton.png 
+    aff: University of Southern California
+    interest: 
+    image: assets/images/YanLiu.png 
 
   # - name: Kyle Cranmer  
   #   url: https://www.physics.wisc.edu/directory/cranmer-kyle/ 
@@ -369,7 +369,7 @@ In this workshop, we discuss both theoretical and applied aspects of CRL, which 
 
 {% include team.html id="speakers" %}
 
-# Panel: Using AI to Accelerate Scientific Discovery
+# Panel Discussion
 
 {% include team.html id="Panelist" %}
 
@@ -389,13 +389,11 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 
 # Important Dates (Anywhere on Earth)
-<!-- 
-- Abstract Submission Deadline: Sept 30, 2023
-- Paper Submission Deadline: Oct 2, 2023
-- Review Bidding Period: Oct 2-4, 2023
-- Reviewer Deadline: Oct 24, 2023
-- Acceptance Notification Date: Oct 27, 2023
-- Workshop Date: Dec 16, 2023 -->
+
+- Workshop Papers Submission: September 10, 2024
+- Acceptance Notification: October 7, 2024
+- Camera-ready Deadline and Copyright Form: October 11, 2024
+- Workshop Date: December 9, 2024
 
 
 
