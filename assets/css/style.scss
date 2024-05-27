@@ -37,7 +37,7 @@
 .header-content {
     position: relative;
     z-index: 2; /* Ensure content is above the pseudo-element */
-    margin-top: 60px; /* Adjust this value to move content lower */
+    margin-top: 0px; /* Adjust this value to move content lower */
     text-align: center; /* Center the content horizontally */
 }
 

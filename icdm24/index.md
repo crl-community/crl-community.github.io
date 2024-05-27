@@ -4,7 +4,6 @@ title: ""
 permalink: /icdm24
 
 
-
 speakers:
 
   - name: Mihaela van der Schaar
@@ -555,7 +554,7 @@ Please submit your paper in Openreview. Our workshop is **nonarchival**, the acc
 <!-- Organizers are in alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com). -->
 
 
-## Organizers: CRL Team 
+## Organizers:
 
 {% include team.html id="Organizers" %}
 
