@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
-
     <link rel="shortcut icon" href="/assets/images/logo.png">
 
     {% if site.google_analytics %}
@@ -15,7 +14,7 @@
     {% endif %}
     <meta charset="UTF-8">
 
-{% seo %}
+    {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -25,8 +24,10 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="icdm24-1.html" class="btn">ICDM 2024</a>
-<!--       <a href="neurips24.html" class="btn">NeurIPS 2024</a> -->
+      <a href="https://crl-community.github.io/icdm24.html" class="btn">About</a>
+      <a href="https://crl-community.github.io/icdm24/call.html" class="btn">Call for Papers</a>
+      <a href="https://crl-community.github.io/icdm24/icdm24.html" class="btn">ICDM 2024</a>
+      <a href="https://crl-community.github.io/" class="btn">Back</a>
     </header>
 
     <main id="content" class="main-content" role="main">
