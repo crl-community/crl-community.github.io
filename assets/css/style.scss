@@ -6,6 +6,10 @@
 
 .page-header {
     position: relative; /* Ensure the pseudo-element is positioned correctly */
+    background-image: url('{{ '/assets/images/abu-dhabi.jpg' | relative_url }}');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     background-color: #1d2830; /* Match the background color as in the example */
     height: 660px; /* Set the height as specified */
     color: white; /* Ensure text color contrasts with the background */
@@ -20,16 +24,17 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('{{ '/assets/images/abu-dhabi.jpg' | relative_url }}');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    mix-blend-mode: overlay; /* Apply the blend mode */
-    opacity: 0.5; /* Adjust the opacity to make it dark */
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the color and opacity as needed */
+    mix-blend-mode: overlay;
     z-index: 1; /* Ensure it is behind content */
 }
 
-.page-header .header-content {
+.page-header * {
+    position: relative;
+    z-index: 2; /* Ensure content is above the pseudo-element */
+}
+
+.header-content {
     position: relative;
     z-index: 2; /* Ensure content is above the pseudo-element */
 }
