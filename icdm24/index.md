@@ -337,7 +337,7 @@ Organizers:
   - name: Mingming Gong
     url: https://mingming-gong.github.io/
     aff: The University of Melbourne / Mohamed bin Zayed University of Artificial Intelligence
-    image: assets/images/Minging.jpg
+    image: assets/images/Mingming.jpg
 
   - name: Guangyi Chen
     url: https://chengy12.github.io
@@ -352,7 +352,7 @@ Organizers:
   - name: Mengyue Yang
     url: https://ymy4323460.github.io
     aff: University College London
-    image: assets/images/mengyue.jpg 
+    image: assets/images/mengyue.jpeg 
 
   - name: Defu Cao
     url: https://idevede.github.io
