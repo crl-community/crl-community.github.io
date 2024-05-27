@@ -357,7 +357,7 @@ Organizers:
   - name: Defu Cao
     url: https://idevede.github.io
     aff: University of Southern California
-    image: assets/images/mengyue.jpg 
+    image: assets/images/defu.jpeg
 
   - name: XiangChen Song
     url: https://xiangchensong.github.io/
