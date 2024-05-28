@@ -512,7 +512,7 @@ In this workshop, we discuss both theoretical and applied aspects of CRL, which 
 <!-- Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ) for active discussions. -->
 
 <!-- # Invited Talks   (In alphabetical order) -->
-# Invited Speakers and Panelist
+# Tentative Invited Speakers and Panelists
 
 {% include team.html id="speakers" %}
 
