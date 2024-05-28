@@ -368,7 +368,7 @@ Organizers:
   - name: Bo Han
     url: https://bhanml.github.io/
     aff: Hong Kong Baptist University / RIKEN
-    image: assets/images/bohan.jpg 
+    image: assets/images/bohan.jpeg 
 
   - name: Tongliang Liu
     url: https://tongliang-liu.github.io
