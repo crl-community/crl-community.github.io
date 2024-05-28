@@ -335,12 +335,14 @@ Organizers:
 
   - name: Mingming Gong
     url: https://mingming-gong.github.io/
-    aff: The University of Melbourne / Mohamed bin Zayed University of Artificial Intelligence
+    # aff: The University of Melbourne / Mohamed bin Zayed University of Artificial Intelligence
+    aff: The University of Melbourne / MBZUAI
     image: assets/images/Mingming.jpg
 
   - name: Guangyi Chen
     url: https://chengy12.github.io
-    aff: Carnegie Mellon University / Mohamed bin Zayed University of Artificial Intelligence
+    # aff: Carnegie Mellon University / Mohamed bin Zayed University of Artificial Intelligence
+    aff: Carnegie Mellon University / MBZUAI
     image: assets/images/cgy.jpg
 
   - name: Haoxuan Li
@@ -370,7 +372,8 @@ Organizers:
 
   - name: Tongliang Liu
     url: https://tongliang-liu.github.io
-    aff: University of Sydney / Mohamed bin Zayed University of Artificial Intelligence / RIKEN
+    # aff: University of Sydney / Mohamed bin Zayed University of Artificial Intelligence / RIKEN
+    aff: University of Sydney / MBZUAI / RIKEN
     image: assets/images/Tongliang.jpg 
 
   # - name: Max Welling
