@@ -358,7 +358,7 @@ Organizers:
     aff: University of Southern California
     image: assets/images/defu.jpeg
 
-  - name: XiangChen Song
+  - name: Xiangchen Song
     url: https://xiangchensong.github.io/
     aff: Carnegie Mellon University
     image: assets/images/xiangchen.jpg 
