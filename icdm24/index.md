@@ -510,11 +510,6 @@ In this workshop, we discuss both theoretical and applied aspects of CRL, which 
 - **Causal representation learning in recommendation systems**
 
 
-<!-- ## Follow Us -->
-
-<!-- Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/aiforscience/shared_invite/zt-1bdof1jmf-YtIjkUVA5DquXguEiOXGPQ) for active discussions. -->
-
-<!-- # Invited Talks   (In alphabetical order) -->
 # Tentative Invited Speakers and Panelists
 
 {% include team.html id="speakers" %}
@@ -535,7 +530,28 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 <!-- {% include team.html id="opencatalyst" %} -->
 
 
+# Tentative Schedule
 
+**13:30-13:35 PM:** Welcome remarks
+
+## Session 1: Theoretical Aspects of CRL
+- **13:35-14:05 PM:** Invited Talk 1
+- **14:05-14:15 PM:** Contributed Talk 1
+- **14:15-14:45 PM:** Invited Talk 2
+- **14:45-14:55 PM:** Contributed Talk 2
+- **14:55-15:25 PM:** Invited Talk 3
+- **15:25-15:35 PM:** Contributed Talk 3
+
+## Session 2: Applied Aspects of CRL
+- **15:35-16:05 PM:** Invited Talk 4
+- **16:05-16:15 PM:** Contributed Talk 4
+- **16:15-16:45 PM:** Invited Talk 5
+- **16:45-16:55 PM:** Contributed Talk 5
+- **16:55-17:25 PM:** Invited Talk 6
+- **17:25-17:35 PM:** Contributed Talk 6
+
+## Session 3: Panel Discussion
+- **17:35-18:00 PM:** Panel discussion
 
 
 # Important Dates (Anywhere on Earth)
@@ -547,7 +563,7 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 
 
-## Submissions 
+# Submissions 
 
 Please submit your paper in Openreview. Our workshop is **nonarchival**, the accepted papers will be posted on our website. 
 
@@ -557,7 +573,7 @@ Please submit your paper in Openreview. Our workshop is **nonarchival**, the acc
 <!-- Organizers are in alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com). -->
 
 
-## Organizers:
+# Organizers:
 
 {% include team.html id="Organizers" %}
 
