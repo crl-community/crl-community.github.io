@@ -534,7 +534,7 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 **13:30-13:35 PM:** Welcome remarks
 
-## Session 1: Theoretical Aspects of CRL
+### Session 1: Theoretical Aspects of CRL
 - **13:35-14:05 PM:** Invited Talk 1
 - **14:05-14:15 PM:** Contributed Talk 1
 - **14:15-14:45 PM:** Invited Talk 2
@@ -542,7 +542,7 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 - **14:55-15:25 PM:** Invited Talk 3
 - **15:25-15:35 PM:** Contributed Talk 3
 
-## Session 2: Applied Aspects of CRL
+### Session 2: Applied Aspects of CRL
 - **15:35-16:05 PM:** Invited Talk 4
 - **16:05-16:15 PM:** Contributed Talk 4
 - **16:15-16:45 PM:** Invited Talk 5
@@ -550,7 +550,7 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 - **16:55-17:25 PM:** Invited Talk 6
 - **17:25-17:35 PM:** Contributed Talk 6
 
-## Session 3: Panel Discussion
+### Session 3: Panel Discussion
 - **17:35-18:00 PM:** Panel discussion
 
 
