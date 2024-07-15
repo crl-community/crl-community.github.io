@@ -22,12 +22,14 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="https://crl-community.github.io/neurips24.html" class="btn">About</a>
-      <a href="https://crl-community.github.io/neurips24/call.html" class="btn">Call for Papers</a>
-      <!-- <a href="https://crl-community.github.io/neurips24/neurips24.html" class="btn">NeurIPS 2024</a> -->
-      <a href="https://crl-community.github.io/" class="btn">Back</a>
+      <div class="header-content">
+        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        <a href="https://crl-community.github.io/neurips24.html" class="btn">About</a>
+        <a href="https://crl-community.github.io/neurips24/call.html" class="btn">Call for Papers</a>
+        <!-- <a href="https://crl-community.github.io/neurips24/neurips24.html" class="btn">NeurIPS 2024</a> -->
+        <a href="https://crl-community.github.io/" class="btn">Back</a>
+      </div>  
     </header>
 
     <main id="content" class="main-content" role="main">
