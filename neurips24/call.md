@@ -1,7 +1,7 @@
 ---
-layout: icdm24
+layout: neurips24
 title: ""
-permalink: /icdm24/call
+permalink: /neurips24/call
 ---
 
 # Call for Papers
