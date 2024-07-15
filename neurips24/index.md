@@ -333,11 +333,11 @@ OtherStudentOrganizers:
 
 Organizers:
 
-  - name: Mingming Gong
-    url: https://mingming-gong.github.io/
-    # aff: The University of Melbourne / Mohamed bin Zayed University of Artificial Intelligence
-    aff: The University of Melbourne / MBZUAI
-    image: assets/images/Mingming.jpg
+  # - name: Mingming Gong
+  #   url: https://mingming-gong.github.io/
+  #   # aff: The University of Melbourne / Mohamed bin Zayed University of Artificial Intelligence
+  #   aff: The University of Melbourne / MBZUAI
+  #   image: assets/images/Mingming.jpg
 
   - name: Guangyi Chen
     url: https://chengy12.github.io
@@ -345,139 +345,35 @@ Organizers:
     aff: Carnegie Mellon University / MBZUAI
     image: assets/images/cgy.jpg
 
-  - name: Haoxuan Li
-    url: https://scholar.google.com/citations?user=gtDqiucAAAAJ&hl=en
-    aff: Peking University
-    image: assets/images/haoxuan.jpg
+  - name: Sara Magliacane
+    url: https://saramagliacane.github.io/
+    aff: University of Amsterdam
+    image: assets/images/sara.jpg
 
-  - name: Mengyue Yang
-    url: https://ymy4323460.github.io
-    aff: University College London
-    image: assets/images/mengyue.jpeg 
+  - name: Zhijing Jin
+    url: https://zhijing-jin.com/fantasy/
+    aff: Max Planck Institute / ETH
+    image: assets/images/zhijing.png
 
-  - name: Defu Cao
-    url: https://idevede.github.io
-    aff: University of Southern California
-    image: assets/images/defu.jpeg
+  - name: Biwei Huang
+    url: https://biweihuang.com/
+    aff: UC San Diego
+    image: assets/images/biwei.png 
 
-  - name: Xiangchen Song
-    url: https://xiangchensong.github.io/
+  - name: Francesco Locatello
+    url: https://www.francescolocatello.com/
+    aff: Institute of Science and Technology Austria (ISTA)
+    image: assets/images/francesco.jpeg
+
+  - name: Peter Spirtes
+    url: https://www.cmu.edu/dietrich/philosophy/people/faculty/spirtes.html
     aff: Carnegie Mellon University
-    image: assets/images/xiangchen.jpg 
+    image: assets/images/peter.jpg
 
-  - name: Bo Han
-    url: https://bhanml.github.io/
-    aff: Hong Kong Baptist University / RIKEN
-    image: assets/images/bohan.jpeg 
-
-  - name: Tongliang Liu
-    url: https://tongliang-liu.github.io
-    # aff: University of Sydney / Mohamed bin Zayed University of Artificial Intelligence / RIKEN
-    aff: University of Sydney / MBZUAI / RIKEN
-    image: assets/images/Tongliang.jpg 
-
-  # - name: Max Welling
-  #   url: https://staff.fnwi.uva.nl/m.welling
-  #   aff: UvA, Microsoft Research
-  #   interest: 
-  #   image: assets/images/max.png 
-
-
-
-  # - name: Yoshua Bengio
-  #   url: https://yoshuabengio.org
-  #   aff: MILA
-  #   interest: 
-  #   image: https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705.jpg
- 
-  # - name: Marinka Zitnik
-  #   url: https://zitniklab.hms.harvard.edu
-  #   aff: Harvard
-  #   interest: 
-  #   image: assets/images/marinka.png 
-    
-  # - name: Carla P. Gomes
-  #   url: https://www.cs.cornell.edu/gomes/
-  #   aff: Cornell
-  #   interest: 
-  #   image: assets/images/carla.png 
-    
-    
-  # - name: Jure Leskovec 
-  #   url: https://cs.stanford.edu/people/jure/
-  #   aff: Stanford
-  #   interest: 
-  #   image: assets/images/jure.png 
-
-
-  # - name: Yuanqi Du
-  #   url: https://yuanqidu.github.io/
-  #   aff: Cornell 
-  #   interest: AI for Science
-  #   image: assets/images/yuanqi.png 
-
-
-  # - name: Maria Brbić 
-  #   url: https://people.epfl.ch/maria.brbic 
-  #   aff: EPFL
-  #   interest: 
-  #   image: assets/images/maria.jpeg  
-
-
-  # - name: Chenru Duan 
-  #   url: https://www.crduan.com/
-  #   aff: MSFT Quantum
-  #   interest: AI for Chemistry
-  #   image: assets/images/chenru.png 
-
-
-  # - name: Wenhao Gao
-  #   url: https://wenhao-gao.github.io/
-  #   aff: MIT
-  #   interest: AI for Chemistry
-  #   image: assets/images/wenhao.png 
-
-
-  # - name: Kexin Huang 
-  #   url: https://www.kexinhuang.com/
-  #   aff: Stanford
-  #   interest: AI for Biology
-  #   image: assets/images/kexin.png
-
-
-  # - name: Ziming Liu
-  #   url: https://kindxiaoming.github.io/
-  #   aff: MIT
-  #   interest: AI for Physics 
-  #   image: assets/images/ziming.jpeg
-
-
-  # - name: Rocío Mercado
-  #   url: https://rociomer.github.io/
-  #   aff: Chalmers
-  #   interest: 
-  #   image: assets/images/rocio.png 
-
-  # - name: Miles Cranmer
-  #   url: https://astroautomata.com/ 
-  #   aff: University of Cambridge 
-  #   interest: 
-  #   image: assets/images/miles_cranmer.jpeg  
-
-
-  # - name: Shengchao Liu 
-  #   url: https://chao1224.github.io/
-  #   aff: MILA
-  #   interest: AI for Molecule Discovery
-  #   image: assets/images/shengchao.jpeg
-    
-
-
-  # - name: Lijing Wang 
-  #   url: https://lijingwang.github.io/
-  #   aff: Lawrence Berkeley National Laboratory 
-  #   interest: AI for Earth Sciences
-  #   image: assets/images/lijing2.png 
+  - name: Kun Zhang
+    url: https://www.andrew.cmu.edu/user/kunz1/
+    aff: Carnegie Mellon University / MBZUAI
+    image: assets/images/kun.jpg
 
 
 
