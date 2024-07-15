@@ -487,27 +487,23 @@ Organizers:
 
 # About
 
-The connection between causality and AI/ML has become increasingly important in recent years, as more and more organizations seek to use AI/ML to make decisions in a variety of domains that like healthcare, finance, transportation, and more. While recent data-driven AI techniques, especially deep representation learning, have shown great promise in areas that involve data analysis, they have also been criticized for their lack of interpretability, explainability, and transparency, which can limit the trustworthiness, accountability, and reliability of AI/ML systems. Additionally, the correlations embedded in the data, which is identified by current cutting-edge models such as GPT-4 and Llama do not necessarily imply causation, which can further lead to issues like spurious correlations or algorithmic bias when such mismatch are not properly explained and addressed. Recently, causal representations have shown great potential in understanding the generating process behind data and provide a framework for understanding how machine learning models make decisions through investigating the underlying causal relationships between variables. By incorporating causal representation learning (CRL), researchers and practitioners can better understand how different features or inputs contribute to the outcome of interest and identify potential sources of bias or confounding that could affect the decision-making and further generalizations.
+Advanced Artificial Intelligence (AI) techniques based on deep representations, such as GPT and Stable Diffusion, have demonstrated exceptional capabilities in analyzing vast amounts of data and generating coherent responses from unstructured data. They achieve this through sophisticated architectures that capture subtle relationships and dependencies. However, these models predominantly identify dependencies rather than establishing and making use of causal relationships. This can lead to potential spurious correlations and algorithmic bias, limiting the models’ interpretability and trustworthiness.
+In contrast, traditional causal discovery methods aim to identify causal relationships within observed data in an unsupervised manner. While these methods show promising results in scenarios with fully observed data, they struggle to handle complex real-world situations where causal effects occur in latent spaces when handling images, videos, and possibly text.
 
-Moreover, from a data-centric perspective, this workshop will focus on both automatic knowledge construction utilizing causal representations discovered from pure data and knowledge enhancement based on domain expert knowledge in real-world applications. Leveraging these causal insights, practitioners can strengthen the robustness and reliability of AI/ML systems deployed in real problems, ensuring that decisions made by the intelligent system are not only data-driven but also grounded to a deeper understanding of the causal mechanism behind. 
-
-In this workshop, we discuss both theoretical and applied aspects of CRL, which includes but not limited to the following topics:
+Recently, causal representation learning (CRL) has made significant progress in addressing the aforementioned challenges, demonstrating great potential in understanding the causal relationships underlying observed data. These techniques are expected to enable researchers to identify latent causal variables and discern the relationships among them,  which provides an efficient way to disentangle representations and enhance the reliability and interpretability of models.
+The goal of this workshop is to explore the challenges and opportunities in this field, discuss recent progress, and identify open questions, and provide a platform to inpire cross-disciplinary collaborations. This workshop will cover both theoretical and applied aspects of CRL, including, but not limited to, the following topics:
 
 - **Theory of causal representation learning**
 
 - **Causal representation learning models**
 
-- **Causal generative models**
-
-- **Causal foundation models**
-
 - **Causal discovery with latent variables**
 
-- **Causal representation learning for treatment effect estimation**
+- **Causal generative models**
 
-- **Causal representation learning in data mining**
+- **Applications of causal representation learning, such as in biology, economics, and image/video analysis**
 
-- **Causal representation learning in recommendation systems**
+- **Benchmarking causal representation learning**
 
 
 # Tentative Invited Speakers and Panelists
@@ -532,40 +528,38 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 # Tentative Schedule
 
-**13:30-13:35 PM:** Welcome remarks
-
-### Session 1: Theoretical Aspects of CRL
-- **13:35-14:05 PM:** Invited Talk 1
-- **14:05-14:15 PM:** Contributed Talk 1
-- **14:15-14:45 PM:** Invited Talk 2
-- **14:45-14:55 PM:** Contributed Talk 2
-- **14:55-15:25 PM:** Invited Talk 3
-- **15:25-15:35 PM:** Contributed Talk 3
-
-### Session 2: Applied Aspects of CRL
-- **15:35-16:05 PM:** Invited Talk 4
-- **16:05-16:15 PM:** Contributed Talk 4
-- **16:15-16:45 PM:** Invited Talk 5
-- **16:45-16:55 PM:** Contributed Talk 5
-- **16:55-17:25 PM:** Invited Talk 6
-- **17:25-17:35 PM:** Contributed Talk 6
-
-### Session 3: Panel Discussion
-- **17:35-18:00 PM:** Panel discussion
+- **9:00-9:05 AM:** Welcome remarks
+- **9:05-9:35 AM:** Invited Talk 1
+- **9:35-10:05 AM:** Invited Talk 2
+- **10:05-10:30 AM:** Coffee Break
+- **10:30-11:00 AM:** Invited Talk 3
+- **11:00-11:15 AM:** Contributed Talk 1
+- **11:15-11:30 AM:** Contributed Talk 2
+- **11:30-12:30 PM:** Poster Session
+- **12:30-2:00 PM:** Lunch Break
+- **2:00-2:30 PM:** Invited Talk 4
+- **2:30-3:00 PM:** Invited Talk 5
+- **3:00-3:30 PM:** Coffee Break
+- **3:30-4:00 PM:** Invited Talk 6
+- **4:00-4:15 PM:** Contributed Talk 3
+- **4:15-4:30 PM:** Contributed Talk 4
+- **4:30-5:20 PM:** Panel Discussion
+- **5:20-5:30 PM:** Closing Remarks
 
 
-# Important Dates (Anywhere on Earth)
+# Important Dates (Anywhere on Earth,TBD)
 
-- Workshop Papers Submission: September 10, 2024
-- Acceptance Notification: October 7, 2024
+
+- Workshop Papers Submission: August 29, 2024
+- Acceptance Notification: September 29, 2024
 - Camera-ready Deadline and Copyright Form: October 11, 2024
-- Workshop Date: December 9, 2024
+- Workshop Date: December 14, 2024
 
 
 
-# Submissions
+<!-- # Submissions
 
-Please submit your paper in Openreview. Our workshop is **nonarchival**, the accepted papers will be posted on our website. 
+Please submit your paper in Openreview. Our workshop is **nonarchival**, the accepted papers will be posted on our website.  -->
 
 
 <!-- # Organizers and Contact -->
