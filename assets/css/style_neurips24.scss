@@ -1,0 +1,58 @@
+---
+---
+
+@import 'bootstrap/bootstrap';
+@import 'jekyll-theme-cayman';
+
+.page-header {
+    position: relative; /* Ensure the pseudo-element is positioned correctly */
+    background-image: url('{{ '/assets/images/vancouver.jpg' | relative_url }}');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #1d2830; /* Match the background color as in the example */
+    height: 320px; /* Adjust the height to be lower */
+    color: white; /* Ensure text color contrasts with the background */
+    padding: 20px; /* Adjust padding as needed */
+    overflow: hidden; /* Ensure pseudo-element does not overflow */
+}
+
+.page-header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Adjust the color and opacity as needed */
+    mix-blend-mode: overlay;
+    z-index: 1; /* Ensure it is behind content */
+}
+
+.page-header * {
+    position: relative;
+    z-index: 2; /* Ensure content is above the pseudo-element */
+}
+
+.header-content {
+    position: relative;
+    z-index: 2; /* Ensure content is above the pseudo-element */
+    margin-top: 0px; /* Adjust this value to move content lower */
+    text-align: center; /* Center the content horizontally */
+}
+
+.header-content .project-name,
+.header-content .project-tagline {
+    margin: 0;
+    padding: 10px 0;
+}
+
+.header-content .btn {
+    margin: 10px 5px;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+}
