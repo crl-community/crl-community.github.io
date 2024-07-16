@@ -25,7 +25,7 @@ speakers:
   - name: Mingming Gong
     url: https://mingming-gong.github.io/
     topic: 
-    aff: University of Melbourne / Mohamed Bin Zayed University of Artificial Intelligence
+    aff: University of Melbourne / MBZUAI
     interest: 
     status: confirmed
     image: assets/images/Mingming.jpg
@@ -345,14 +345,13 @@ The goal of this workshop is to explore the challenges and opportunities in this
 - **Benchmarking causal representation learning**
 
 
-# Tentative Invited Speakers and Panelists
+# Tentative Invited Speakers
 
 {% include team.html id="speakers" %}
 
-<!-- # Panel Discussion
+# Tentative Panelists
 
-{% include team.html id="Panelist" %} -->
-
+{% include team.html id="Panelist" %} 
 
 
 <!-- # Open Catalyst Challenge -->
