@@ -6,65 +6,70 @@ permalink: /neurips24
 
 speakers:
 
+  - name: Bernhard Schölkopf
+    url: https://is.mpg.de/~bs
+    topic: 
+    aff: Max Planck Institute for Intelligent Systems / ETH Zurich / TU Berlin
+    interest: 
+    status: confirmed
+    image: assets/images/bernhard.jpg
+
   - name: Mihaela van der Schaar
     url: https://www.vanderschaar-lab.com/
     topic: 
     aff: University of Cambridge
     interest: 
+    status: confirmed
     image: assets/images/mihaela.png
 
-
-  - name: Yan Liu
-    url: https://sites.google.com/view/yanliu-ai/home
+  - name: Mingming Gong
+    url: https://mingming-gong.github.io/
     topic: 
-    aff: University of Southern California
+    aff: University of Melbourne / Mohamed Bin Zayed University of Artificial Intelligence
     interest: 
-    image: assets/images/YanLiu.png 
+    status: confirmed
+    image: assets/images/Mingming.jpg
 
-
-  - name: Ricardo Silva
-    url: https://www.homepages.ucl.ac.uk/~ucgtrbd/
+  - name: Luigi Gresele
+    url: https://lgresele.github.io/
     topic: 
-    aff: University College London
+    aff: University of Copenhagen
     interest: 
-    image: assets/images/ricardo.png 
+    status: confirmed
+    image: assets/images/luigi.jpg
 
-  - name: Qingyuan Zhao
-    url: https://www.statslab.cam.ac.uk/~qz280/
+  - name: Haoxuan Li
+    url: https://scholar.google.com/citations?user=gtDqiucAAAAJ&hl=en
     topic: 
-    aff: University of Cambridge
+    aff: Peking University
     interest: 
-    image: assets/images/qingyuan.png 
+    status: confirmed
+    image: assets/images/haoxuan.jpg
 
-  - name: Biwei Huang
-    url: https://biweihuang.com/
+  - name: Julius von Kügelgen
+    url: https://www.juliusvonkugelgen.com/
     topic: 
-    aff: University of California, San Diego, USA
+    aff: ETH Zürich
     interest: 
-    image: assets/images/biwei.png 
-
-  - name: Jean-Francois Ton
-    url:  https://savior287.github.io/JFT-webpage/
-    topic: 
-    aff: ByteDance Research, UK
-    interest: 
-    image: assets/images/jean.png 
+    status: confirmed
+    image: assets/images/julius.jpg
 
 
-  - name: Cheng Zhang
-    url:  https://cheng-zhang.org/
-    topic: 
-    aff: Microsoft Research, UK
-    interest: 
-    image: assets/images/chengzhang.png 
+
+  # - name: Cheng Zhang
+  #   url:  https://cheng-zhang.org/
+  #   topic: 
+  #   aff: Microsoft Research, UK
+  #   interest: 
+  #   image: assets/images/chengzhang.png 
 
 
-  - name: Ruocheng Guo
-    url:  https://rguo12.github.io/
-    topic: 
-    aff: ByteDance Research, UK
-    interest: 
-    image: assets/images/ruocheng.png 
+  # - name: Ruocheng Guo
+  #   url:  https://rguo12.github.io/
+  #   topic: 
+  #   aff: ByteDance Research, UK
+  #   interest: 
+  #   image: assets/images/ruocheng.png 
 
 
   # - name: Kyle Cranmer  
@@ -107,109 +112,47 @@ speakers:
 
 Panelist:
 
-#   - name: Carla Gomes
-#     url:  https://www.cs.cornell.edu/gomes/
-#     aff: Cornell University  
-#     image: assets/images/carla.png 
+- name: Bernhard Schölkopf
+  url: https://is.mpg.de/~bs
+  aff: Max Planck Institute for Intelligent Systems
+  status: confirmed
+  image: assets/images/bernhard.png
 
-#   - name: Todd Anderson
-#     url:  https://science.osti.gov/ber/About/Staff
-#     aff: Department of Energy  
-#     image: assets/images/todd_anderson.png 
+- name: Emre Kıcıman
+  url: https://kiciman.org/
+  aff: Microsoft Research
+  status: tentative
+  image: assets/images/emre.jpg
 
+- name: Arthur Gretton
+  url: https://www.gatsby.ucl.ac.uk/~gretton/
+  aff: Gatsby Computational Neuroscience Unit / UCL / Google Deepmind
+  status: confirmed
+  image: assets/images/arthur.png
 
+- name: Ricardo Silva
+  url: https://www.ucl.ac.uk/statistics/people/ricardosilva
+  aff: Department of Statistical Science, UCL / Gatsby Computational Neuroscience
+  status: tentative
+  image: assets/images/ricardo.jpg
 
-#   - name: Thomas Kalil
-#     url: https://www.schmidtfutures.com/person/tom-kalil/ 
-#     aff: Schmidt Futures 
-#     image: assets/images/thomas_kalil.jpeg 
+- name: Cheng Zhang
+  url: https://cheng-zhang.org/
+  aff: Microsoft Research
+  status: confirmed
+  image: assets/images/cheng.jpg
 
-#   - name: Michael Littman
-#     url: https://vivo.brown.edu/display/mlittman 
-#     aff: Brown, NSF 
-#     image: assets/images/michael_littman.png 
+- name: Dominik Janzing
+  url: https://janzing.github.io/
+  aff: Amazon Research
+  status: tentative
+  image: assets/images/dominik.jpeg
 
-#   - name: David Spergel
-#     url: https://www.astro.princeton.edu/~dns/ 
-#     aff: Princeton, Flatiron Institute 
-#     image: assets/images/david_spergel.jpeg  
-
-
-# opencatalyst:
-
-#   - name: Muhammed Shuaibi  
-#     url: https://scholar.google.com/citations?user=lphfYeIAAAAJ&hl=en 
-#     topic: 
-#     aff: FAIR, Meta 
-#     interest: AI, Chemistry
-#     image: assets/images/shuaibi.jpeg 
-
-#   - name: Brandon Wood  
-#     url: https://scholar.google.com/citations?user=KbqboRgAAAAJ&hl=en
-#     topic: 
-#     aff: FAIR, Meta
-#     interest: AI, Chemistry
-#     image: assets/images/brandon.jpeg 
-
-  - name: Mihaela van der Schaar
-    url: https://www.vanderschaar-lab.com/
-    topic: 
-    aff: University of Cambridge
-    interest: 
-    image: assets/images/mihaela.png
-
-
-  - name: Yan Liu
-    url: https://sites.google.com/view/yanliu-ai/home
-    topic: 
-    aff: University of Southern California
-    interest: 
-    image: assets/images/YanLiu.png 
-
-
-  - name: Ricardo Silva
-    url: https://www.homepages.ucl.ac.uk/~ucgtrbd/
-    topic: 
-    aff: University College London
-    interest: 
-    image: assets/images/ricardo.png 
-
-  - name: Qingyuan Zhao
-    url: https://www.statslab.cam.ac.uk/~qz280/
-    topic: 
-    aff: University of Cambridge
-    interest: 
-    image: assets/images/qingyuan.png 
-
-  - name: Biwei Huang
-    url: https://biweihuang.com/
-    topic: 
-    aff: University of California, San Diego, USA
-    interest: 
-    image: assets/images/biwei.png 
-
-  - name: Jean-Francois Ton
-    url:  https://savior287.github.io/JFT-webpage/
-    topic: 
-    aff: ByteDance Research, UK
-    interest: 
-    image: assets/images/jean.png 
-
-
-  - name: Cheng Zhang
-    url:  https://cheng-zhang.org/
-    topic: 
-    aff: Microsoft Research, UK
-    interest: 
-    image: assets/images/chengzhang.png 
-
-
-  - name: Ruocheng Guo
-    url:  https://rguo12.github.io/
-    topic: 
-    aff: ByteDance Research, UK
-    interest: 
-    image: assets/images/ruocheng.png 
+- name: Frederick Eberhardt
+  url: https://www.its.caltech.edu/~fehardt/
+  aff: California Institute of Technology
+  status: confirmed
+  image: assets/images/frederick.jpg
 
 
 
