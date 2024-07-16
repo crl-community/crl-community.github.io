@@ -116,7 +116,7 @@ Panelist:
   url: https://is.mpg.de/~bs
   aff: Max Planck Institute for Intelligent Systems
   status: confirmed
-  image: assets/images/bernhard.png
+  image: assets/images/bernhard.jpg
 
 - name: Emre Kıcıman
   url: https://kiciman.org/
