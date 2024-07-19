@@ -140,7 +140,7 @@ Organizers:
 
   - name: Francesco Locatello
     url: https://www.francescolocatello.com/
-    aff: Institute of Science and Technology Austria (ISTA)
+    aff: Institute of Science and Technology Austria
     image: assets/images/francesco.jpeg
 
   - name: Peter Spirtes
