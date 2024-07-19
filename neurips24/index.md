@@ -6,21 +6,17 @@ permalink: /neurips24
 
 speakers:
 
-  - name: Bernhard Schölkopf
-    url: https://is.mpg.de/~bs
-    topic: 
-    aff: Max Planck Institute for Intelligent Systems / ETH Zurich / TU Berlin
-    interest: 
+  - name: Frederick Eberhardt
+    url: https://www.its.caltech.edu/~fehardt/
+    aff: California Institute of Technology
     status: confirmed
-    image: assets/images/bernhard.jpg
-
-  - name: Mihaela van der Schaar
-    url: https://www.vanderschaar-lab.com/
-    topic: 
-    aff: University of Cambridge
-    interest: 
+    image: assets/images/frederick.jpg
+    
+  - name: Arthur Gretton
+    url: https://www.gatsby.ucl.ac.uk/~gretton/
+    aff: Gatsby Computational Neuroscience Unit / UCL / Google Deepmind
     status: confirmed
-    image: assets/images/mihaela.png
+    image: assets/images/arthur.png
 
   - name: Mingming Gong
     url: https://mingming-gong.github.io/
@@ -29,23 +25,62 @@ speakers:
     interest: 
     status: confirmed
     image: assets/images/Mingming.jpg
+    
+  - name: Dominik Janzing
+    url: https://janzing.github.io/
+    aff: Amazon Research
+    status: tentative
+    image: assets/images/dominik.jpeg
+    
+  - name: Huan Liu (tentative)
+    url: https://www.public.asu.edu/~huanliu/
+    aff: Arizona State University
+    status: tentative
+    image: assets/images/huan.jpeg
+    
+    
+  - name: Cheng Zhang
+    url: https://cheng-zhang.org/
+    aff: Microsoft Research
+    status: confirmed
+    image: assets/images/cheng.jpg
 
-  - name: Luigi Gresele
-    url: https://lgresele.github.io/
+
+
+Panelist:
+
+  - name: Emre Kıcıman (tentative)
+    url: https://kiciman.org/
+    aff: Microsoft Research
+    status: tentative
+    image: assets/images/emre.jpg
+    
+  - name: Jing Ma (tentative)
+    url: https://jma712.github.io/
+    aff: Case Western Reserve University
+    status: tentative
+    image: assets/images/jing.jpeg
+    
+  - name: Bernhard Schölkopf
+    url: https://is.mpg.de/~bs
+    aff: Max Planck Institute for Intelligent Systems
+    status: confirmed
+    image: assets/images/bernhard.jpg
+
+  - name: Ricardo Silva
+    url: https://www.ucl.ac.uk/statistics/people/ricardosilva
+    aff: Department of Statistical Science, UCL / Gatsby Computational Neuroscience
+    status: confirmed
+    image: assets/images/ricardo.jpg
+    
+  - name: Mihaela van der Schaar
+    url: https://www.vanderschaar-lab.com/
     topic: 
-    aff: University of Copenhagen
+    aff: University of Cambridge
     interest: 
     status: confirmed
-    image: assets/images/luigi.jpg
-
-  - name: Haoxuan Li
-    url: https://scholar.google.com/citations?user=gtDqiucAAAAJ&hl=en
-    topic: 
-    aff: Peking University
-    interest: 
-    status: confirmed
-    image: assets/images/haoxuan.jpg
-
+    image: assets/images/mihaela.png
+    
   - name: Julius von Kügelgen
     url: https://www.juliusvonkugelgen.com/
     topic: 
@@ -53,225 +88,20 @@ speakers:
     interest: 
     status: confirmed
     image: assets/images/julius.jpg
-
-
-
-  # - name: Cheng Zhang
-  #   url:  https://cheng-zhang.org/
+  
+  # - name: Luigi Gresele
+  #   url: https://lgresele.github.io/
   #   topic: 
-  #   aff: Microsoft Research, UK
+  #   aff: University of Copenhagen
   #   interest: 
-  #   image: assets/images/chengzhang.png 
-
-
-  # - name: Ruocheng Guo
-  #   url:  https://rguo12.github.io/
-  #   topic: 
-  #   aff: ByteDance Research, UK
-  #   interest: 
-  #   image: assets/images/ruocheng.png 
-
-
-  # - name: Kyle Cranmer  
-  #   url: https://www.physics.wisc.edu/directory/cranmer-kyle/ 
-  #   topic: 
-  #   aff: University of Wisconsin–Madison 
-  #   interest: AI, Particle Physics
-  #   image: assets/images/Kyle.png 
-
-  # - name: Su-in Lee   
-  #   url: https://suinlee.cs.washington.edu/
-  #   topic: 
-  #   aff: University of Washington 
-  #   interest: AI, Computational Biology
-  #   image: assets/images/su-in.png 
-    
-
-
-  # - name: Sherrie Wang  
-  #   url: https://sherriewang.github.io/  
-  #   topic: 
-  #   aff: MIT
-  #   interest: AI, Agriculture, Climate
-  #   image: assets/images/sherrie.png 
-    
-  # - name: Sara Beery    
-  #   url: https://beerys.github.io/  
-  #   topic: 
-  #   aff: MIT
-  #   interest: AI, Conservation
-  #   image: assets/images/sara.png    
-    
-  # - name: Fabian Theis
-  #   url: https://www.sanger.ac.uk/external_person/theis-fabian/ 
-  #   aff: Technical University of Munich  
-  #   image: assets/images/fabian.png
+  #   status: confirmed
+  #   image: assets/images/luigi.jpg
 
 
 
 
-Panelist:
 
-- name: Bernhard Schölkopf
-  url: https://is.mpg.de/~bs
-  aff: Max Planck Institute for Intelligent Systems
-  status: confirmed
-  image: assets/images/bernhard.jpg
-
-- name: Emre Kıcıman
-  url: https://kiciman.org/
-  aff: Microsoft Research
-  status: tentative
-  image: assets/images/emre.jpg
-
-- name: Arthur Gretton
-  url: https://www.gatsby.ucl.ac.uk/~gretton/
-  aff: Gatsby Computational Neuroscience Unit / UCL / Google Deepmind
-  status: confirmed
-  image: assets/images/arthur.png
-
-- name: Ricardo Silva
-  url: https://www.ucl.ac.uk/statistics/people/ricardosilva
-  aff: Department of Statistical Science, UCL / Gatsby Computational Neuroscience
-  status: tentative
-  image: assets/images/ricardo.jpg
-
-- name: Cheng Zhang
-  url: https://cheng-zhang.org/
-  aff: Microsoft Research
-  status: confirmed
-  image: assets/images/cheng.jpg
-
-- name: Dominik Janzing
-  url: https://janzing.github.io/
-  aff: Amazon Research
-  status: tentative
-  image: assets/images/dominik.jpeg
-
-- name: Frederick Eberhardt
-  url: https://www.its.caltech.edu/~fehardt/
-  aff: California Institute of Technology
-  status: confirmed
-  image: assets/images/frederick.jpg
-
-
-
-OtherStudentOrganizers:
-
-
-  # - name: Yuanqi Du (Cornell)
-  #   url: https://yuanqidu.github.io/
-  #   image: assets/images/test.jpeg
-    
-
-  # - name: Payal Chandak (MIT)
-  #   url: https://www.payalchandak.com/
-  #   image: assets/images/test.jpeg
-
-
-  # - name: Daisy Yi Ding (Stanford)
-  #   url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en/
-  #   aff: Stanford 
-  #   interest: AI for Multiomics
-  #   image: assets/images/daisy2.png 
-
-  # - name: Chenru Duan (MSFT Quantum)
-  #   url: https://www.crduan.com/
-  #   aff: MSFT Quantum
-  #   interest: AI for Chemistry
-  #   image: assets/images/chenru.png 
-
-  # - name: Ada Fang (Harvard)
-  #   url: https://chemistry.harvard.edu/people/ada-fang
-  #   aff: Harvard
-  #   interest: AI for Chemistry 
-  #   image: assets/images/ada.png
-
-
-  # - name: Tianfan Fu (UIUC)
-  #   url: https://futianfan.github.io/
-  #   aff: Gatech
-  #   interest: AI for drug design and development 
-  #   image: assets/images/tianfan.png     
-    
-    
-  # - name: Wenhao Gao (MIT)
-  #   url: https://scholar.google.com/citations?user=s4eywrUAAAAJ&hl=en
-  #   image: assets/images/test.jpeg
-    
-  # - name: Kexin Huang (Stanford)
-  #   url: https://www.kexinhuang.com/
-  #   image: assets/images/test.jpeg
-    
-  # - name: Shengchao Liu (MILA)
-  #   url: https://chao1224.github.io/
-  #   image: assets/images/test.jpeg
-    
-  # - name: Ziming Liu (MIT)
-  #   url: https://kindxiaoming.github.io/
-  #   image: assets/images/test.jpeg
-    
-
-  # - name: Hanchen Wang (Stanford, Genentech)
-  #   url: https://hansen7.github.io/
-  #   aff: Stanford/Genentech
-  #   interest: AI for Medical Science
-  #   image: assets/images/hanchen.png 
-
-  # - name: Max Tegmark (MIT)
-  #   url: https://space.mit.edu/home/tegmark
-  #   image: assets/images/test.jpeg
-
-  # - name: Adrian Weller (Cambridge)
-  #   url: http://mlg.eng.cam.ac.uk/adrian
-  #   image: assets/images/test.jpeg
-
-  # - name: Max Welling (UvA)
-  #   url: https://staff.fnwi.uva.nl/m.welling
-  #   image: assets/images/test.jpeg
-
-  # - name: Marinka Zitnik (Harvard)
-  #   url: https://zitniklab.hms.harvard.edu
-  #   image: assets/images/test.jpeg
-
-
-  # - name: Connor Coley (MIT)
-  #   url: https://cheme.mit.edu/profile/connor-w-coley/
-
-  # - name: Le Song (BioMap)
-  #   url: https://scholar.google.com/citations?user=Xl4E0CsAAAAJ&hl=en
-
-  # - name: Linfeng Zhang (DP Technology)
-  #   url: https://scholar.google.com/citations?user=jk7qwmcAAAAJ&hl=zh-CN
-
-  # - name: Anima Anandkumar (Caltech, NVIDIA)
-  #   url: http://tensorlab.cms.caltech.edu/users/anima/
-  #   aff: Caltech, NVIDIA
-  #   interest: 
-  #   image: assets/images/anima.png 
-
-
-  # - name: Yoshua Bengio (MILA, Université de Montréal)
-  #   url: https://yoshuabengio.org
-  #   aff: MILA, Université de Montréal
-  #   interest: 
-  #   image: assets/images/yoshua.png 
-
-  # - name: Carla P. Gomes (Cornell)
-  #   url: https://www.cs.cornell.edu/gomes/
-  #   aff: Cornell
-  #   interest: 
-  #   image: assets/images/carla.png 
-
-
-  # - name: Aviv Regev (MIT, Genentech)
-  #   url: https://biology.mit.edu/profile/aviv-regev/
-  #   aff: MIT, Genentech
-  #   interest: 
-  #   image: assets/images/aviv.png 
-
-
-
+# OtherStudentOrganizers:
 
 
 Organizers:
@@ -287,6 +117,11 @@ Organizers:
     # aff: Carnegie Mellon University / Mohamed bin Zayed University of Artificial Intelligence
     aff: Carnegie Mellon University / MBZUAI
     image: assets/images/cgy.jpg
+    
+  - name: Haoxuan Li
+    url: https://scholar.google.com/citations?user=gtDqiucAAAAJ&hl=e
+    aff: Peking University
+    image: assets/images/haoxuan.jpg
 
   - name: Sara Magliacane
     url: https://saramagliacane.github.io/
@@ -340,7 +175,7 @@ The goal of this workshop is to explore the challenges and opportunities in this
 
 - **Causal generative models**
 
-- **Applications of causal representation learning, such as in biology, economics, and image/video analysis**
+- **Applications of causal representation learning, such as in biology, economics, image/video analysis, and LLMs**
 
 - **Benchmarking causal representation learning**
 
