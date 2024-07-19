@@ -36,7 +36,7 @@ speakers:
     url: https://www.public.asu.edu/~huanliu/
     aff: Arizona State University
     status: tentative
-    image: assets/images/huan.jpeg
+    image: assets/images/huan.jpg
     
     
   - name: Cheng Zhang
@@ -174,6 +174,8 @@ The goal of this workshop is to explore the challenges and opportunities in this
 - **Causal discovery with latent variables**
 
 - **Causal generative models**
+
+- **Causal Foundation Models**
 
 - **Applications of causal representation learning, such as in biology, economics, image/video analysis, and LLMs**
 

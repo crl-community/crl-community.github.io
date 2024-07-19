@@ -33,6 +33,8 @@ The review process is confidential. Submissions and reviews will remain private,
 #### Double-blind Reviewing:
 The review process is confidential and double-blind; only accepted papers will be published on our workshop website. 
 All submissions must be anonymized, removing any identifying details, including acknowledgements and external links. Non-compliance with these guidelines will result in rejection.
+#### Submission Site:
+Please submit your manuscripts from [Open Reivew](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/CRL)
 
 # Important Dates (Anywhere on Earth,TBD)
 
