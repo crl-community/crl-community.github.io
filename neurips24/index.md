@@ -17,14 +17,6 @@ speakers:
     aff: Gatsby Computational Neuroscience Unit / UCL / Google Deepmind
     status: confirmed
     image: assets/images/arthur.png
-
-  - name: Mingming Gong
-    url: https://mingming-gong.github.io/
-    topic: 
-    aff: University of Melbourne / MBZUAI
-    interest: 
-    status: confirmed
-    image: assets/images/Mingming.jpg
     
   - name: Dominik Janzing
     url: https://janzing.github.io/
@@ -38,6 +30,11 @@ speakers:
     status: tentative
     image: assets/images/huan.jpg
     
+  - name: Bernhard Schölkopf
+    url: https://is.mpg.de/~bs
+    aff: Max Planck Institute for Intelligent Systems
+    status: confirmed
+    image: assets/images/bernhard.jpg
     
   - name: Cheng Zhang
     url: https://cheng-zhang.org/
@@ -49,6 +46,14 @@ speakers:
 
 Panelist:
 
+  - name: Mingming Gong
+    url: https://mingming-gong.github.io/
+    topic: 
+    aff: University of Melbourne / MBZUAI
+    interest: 
+    status: confirmed
+    image: assets/images/Mingming.jpg
+    
   - name: Emre Kıcıman (tentative)
     url: https://kiciman.org/
     aff: Microsoft Research
@@ -60,12 +65,6 @@ Panelist:
     aff: Case Western Reserve University
     status: tentative
     image: assets/images/jing.jpeg
-    
-  - name: Bernhard Schölkopf
-    url: https://is.mpg.de/~bs
-    aff: Max Planck Institute for Intelligent Systems
-    status: confirmed
-    image: assets/images/bernhard.jpg
 
   - name: Ricardo Silva
     url: https://www.ucl.ac.uk/statistics/people/ricardosilva
@@ -182,11 +181,11 @@ The goal of this workshop is to explore the challenges and opportunities in this
 - **Benchmarking causal representation learning**
 
 
-# Tentative Invited Speakers
+# Tentative Invited Speakers (Ranked by the last name)
 
 {% include team.html id="speakers" %}
 
-# Tentative Panelists
+# Tentative Panelists (Ranked by the last name)
 
 {% include team.html id="Panelist" %} 
 
@@ -225,10 +224,10 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 # Important Dates (Anywhere on Earth,TBD)
 
 
-- Workshop Papers Submission: August 29, 2024
-- Acceptance Notification: September 29, 2024
-- Camera-ready Deadline and Copyright Form: October 11, 2024
-- Workshop Date: December 14, 2024
+- Workshop Papers Submission: September 10, 2024
+- Acceptance Notification: September 30, 2024
+- Camera-ready Deadline and Copyright Form: October 14, 2024
+- Workshop Date: December 14, 2024 (or December 15, 2024)
 
 
 
@@ -246,6 +245,7 @@ Please submit your paper in Openreview. Our workshop is **nonarchival**, the acc
 
 {% include team.html id="Organizers" %}
 
+For any question, please contact [thecrlcommunity@gmail.com](mailto:thecrlcommunity@gmail.com).
 
 <!-- <ul>
 {% for p in page.StudentOrganizers %}
