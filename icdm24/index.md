@@ -565,7 +565,7 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 # Submissions
 
-Please submit your manuscripts on [Open Reivew](https://openreview.net/group?id=IEEE.org/ICDM/Workshop/CRL)  Our workshop is **nonarchival**, the accepted papers will be posted on our website. 
+Please submit your manuscripts on [Open Reivew](https://openreview.net/group?id=IEEE.org/ICDM/Workshop/CRL). Our workshop is **nonarchival**, the accepted papers will be posted on our website. 
 
 
 <!-- # Organizers and Contact -->
