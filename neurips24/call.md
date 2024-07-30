@@ -26,10 +26,6 @@ We welcome submissions covering both theoretical and applied aspects of CRL, inc
 Submissions must contain original, previously unpublished research and be formatted using the NeurIPS 2024 LaTeX style. All submissions should be in PDF format and limited to six content pages. Supplementary materials and references can be included on additional pages, but note that reviewers are not required to review these materials. For LaTeX templates, download from [NeurIPS 2024 LaTeX Style Files](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip).
 #### Nonarchival Nature:
 Our workshop is nonarchival, meaning accepted papers will be displayed on the workshop website but not included in the conference proceedings. This allows authors to submit their work to other venues in the future.
-#### Dual-submission Policy:
-We welcome ongoing and unpublished work, including submissions under review or accepted at venues without published proceedings.
-#### Visibility:
-The review process is confidential. Submissions and reviews will remain private, and only accepted papers will be made publicly available on the workshop website.
 #### Double-blind Reviewing:
 The review process is confidential and double-blind; only accepted papers will be published on our workshop website. 
 All submissions must be anonymized, removing any identifying details, including acknowledgements and external links. Non-compliance with these guidelines will result in rejection.
@@ -38,10 +34,10 @@ Please submit your manuscripts from [Open Reivew](https://openreview.net/group?i
 
 # Important Dates (Anywhere on Earth,TBD)
 
-- **Submission Deadline:** August 29, 2024
-- **Notification of Acceptance:** September 29, 2024
-- **Camera-Ready Submission:** October 11, 2024
-- **Workshop Date:**  December 14, 2024
+- Workshop Papers Submission: September 10, 2024
+- Acceptance Notification: September 30, 2024
+- Camera-ready Deadline and Copyright Form: October 14, 2024
+- Workshop Date: December 14, 2024 (or December 15, 2024)
 
 
 

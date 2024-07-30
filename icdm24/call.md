@@ -23,7 +23,7 @@ We welcome submissions related to, but not limited to, the following key areas:
 # Submission Instructions
 
 #### Format and Length:
-All submissions must be in PDF format. Each submission is limited to four content pages, including all figures and tables. There is no limit on additional pages containing references and supplementary materials. Please note that reviewers are not required to read the supplementary materials. The camera-ready versions of accepted papers may include up to five content pages. Submissions should adhere to the ICDM 2024 LaTeX style file.
+All submissions must be in PDF format. Each submission is limited to four content pages, including all figures and tables. There is no limit on additional pages containing references and supplementary materials. Please note that reviewers are not required to read the supplementary materials. The camera-ready versions of accepted papers may include up to five content pages. Submissions should adhere to the ICDM 2024 LaTeX style file. Please submit your manuscripts on [Open Reivew](https://openreview.net/group?id=IEEE.org/ICDM/Workshop/CRL)
 #### Nonarchival:
 Our workshop is nonarchival. Accepted papers will be posted on our workshop website but will not be published in conference proceedings, allowing for future submissions to other venues.
 #### Dual-submission Policy:
