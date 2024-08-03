@@ -18,7 +18,7 @@ speakers:
     status: confirmed
     image: assets/images/arthur.png
     
-  - name: Dominik Janzing
+  - name: Dominik Janzing (tentative)
     url: https://janzing.github.io/
     aff: Amazon Research
     status: tentative
