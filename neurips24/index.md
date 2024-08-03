@@ -39,7 +39,7 @@ speakers:
   - name: Cheng Zhang
     url: https://cheng-zhang.org/
     aff: Microsoft Research
-    status: confirmed
+    status: confirmed speaker only
     image: assets/images/cheng.jpg
 
 
@@ -60,7 +60,7 @@ Panelist:
     status: tentative
     image: assets/images/emre.jpg
     
-  - name: Jing Ma (tentative)
+  - name: Jing Ma 
     url: https://jma712.github.io/
     aff: Case Western Reserve University
     status: tentative
@@ -69,7 +69,7 @@ Panelist:
   - name: Ricardo Silva
     url: https://www.ucl.ac.uk/statistics/people/ricardosilva
     aff: Department of Statistical Science, UCL / Gatsby Computational Neuroscience
-    status: confirmed
+    status: confirmed panelist only
     image: assets/images/ricardo.jpg
     
   - name: Mihaela van der Schaar
