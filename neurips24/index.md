@@ -54,16 +54,16 @@ Panelist:
     status: confirmed
     image: assets/images/Mingming.jpg
     
-  - name: Emre Kıcıman (tentative)
+  - name: Emre Kıcıman
     url: https://kiciman.org/
     aff: Microsoft Research
-    status: tentative
+    status: confirmed panelist
     image: assets/images/emre.jpg
     
   - name: Jing Ma 
     url: https://jma712.github.io/
     aff: Case Western Reserve University
-    status: tentative
+    status: confirmed panelist
     image: assets/images/jing.jpeg
 
   - name: Ricardo Silva
