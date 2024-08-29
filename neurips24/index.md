@@ -23,12 +23,12 @@ speakers:
     aff: Amazon Research
     status: tentative
     image: assets/images/dominik.jpeg
-    
-  - name: Huan Liu (tentative)
-    url: https://www.public.asu.edu/~huanliu/
-    aff: Arizona State University
-    status: tentative
-    image: assets/images/huan.jpg
+
+  - name: Yan Liu
+    url: https://sites.google.com/view/yanliu-ai/hom
+    aff: University of Southern California
+    status: confirmed
+    image: assets/images/YanLiu.png 
     
   - name: Bernhard Schölkopf
     url: https://is.mpg.de/~bs
@@ -225,9 +225,9 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 
 - Workshop Papers Submission: September 10, 2024
-- Acceptance Notification: September 30, 2024
-- Camera-ready Deadline and Copyright Form: October 14, 2024
-- Workshop Date: December 14, 2024 (or December 15, 2024)
+- Acceptance Notification: October 9, 2024
+- Camera-ready Deadline and Copyright Form: October 23, 2024
+- Workshop Date: December 15, 2024
 
 
 
