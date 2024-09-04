@@ -23,7 +23,7 @@ We welcome submissions covering both theoretical and applied aspects of CRL, inc
 # Submission Instructions
 
 #### Format and Length:
-Submissions must contain original, previously unpublished research and be formatted using the NeurIPS 2024 LaTeX style. All submissions should be in PDF format and limited to six content pages. Supplementary materials and references can be included on additional pages, but note that reviewers are not required to review these materials. For LaTeX templates, download from [NeurIPS 2024 LaTeX Style Files](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip).
+Submissions must contain original, previously unpublished research and be formatted using the NeurIPS 2024 LaTeX style. All submissions should be in PDF format and limited to six content pages. Supplementary materials and references can be included on additional pages, but note that reviewers are not required to review these materials. The submission doesn't need to include the checklist. For LaTeX templates, download from [NeurIPS 2024 LaTeX Style Files](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip).
 #### Nonarchival Nature:
 Our workshop is nonarchival, meaning accepted papers will be displayed on the workshop website but not included in the conference proceedings. This allows authors to submit their work to other venues in the future.
 #### Double-blind Reviewing:
