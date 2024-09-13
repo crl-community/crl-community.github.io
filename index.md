@@ -14,4 +14,4 @@ We are excited to announce the launch of our project page, [Causal Representatio
 
 # Follow Us
 
-Please follow us on [X]() for the latest news, or join us on the [Slack]() for active discussions.
+Please follow us on [X](https://x.com/causalRL) for the latest news, or join us on the [Slack]() for active discussions.

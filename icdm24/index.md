@@ -556,9 +556,9 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 # Important Dates (Anywhere on Earth)
 
-- Workshop Papers Submission: September 10, 2024
-- Acceptance Notification: October 7, 2024
-- Camera-ready Deadline and Copyright Form: October 11, 2024
+- Workshop Papers Submission: ~~September 10, 2024~~ October 20, 2024
+- Acceptance Notification: November 7, 2024
+- Camera-ready Deadline and Copyright Form: November 11, 2024
 - Workshop Date: December 9, 2024
 
 

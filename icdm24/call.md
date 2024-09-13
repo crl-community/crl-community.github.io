@@ -36,9 +36,9 @@ All submissions must be anonymized to adhere to our double-blind reviewing polic
 
 
 # Important Dates:
-- **Submission Deadline:** September 10, 2024
-- **Notification of Acceptance:** October 7, 2024
-- **Camera-Ready Submission:** October 11, 2024
-- **Workshop Date:**  December 9, 2024
+- Workshop Papers Submission: ~~September 10, 2024~~ October 20, 2024
+- Acceptance Notification: November 7, 2024
+- Camera-ready Deadline and Copyright Form: November 11, 2024
+- Workshop Date: December 9, 2024
 
 
