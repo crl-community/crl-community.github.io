@@ -224,7 +224,7 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 # Important Dates (Anywhere on Earth,TBD)
 
 
-- Workshop Papers Submission: ~~September 10, 2024~~ September 30, 2024
+- Workshop Papers Submission: ~~September 10, 2024~~ October 2, 2024 (Welcome your ICLR submissions!)
 - Acceptance Notification: October 9, 2024
 - Camera-ready Deadline and Copyright Form: October 23, 2024
 - Workshop Date: December 15, 2024
