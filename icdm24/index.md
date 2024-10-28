@@ -14,7 +14,7 @@ speakers:
   - name: Kun Zhang
     url: https://www.andrew.cmu.edu/user/kunz1/index.html
     topic: 
-    aff: Carnegie Mellon University & Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+    aff: Carnegie Mellon University & MBZUAI
     image: assets/images/kun.jpg   
 
   - name: Xiao-Hua Zhou
@@ -468,7 +468,7 @@ In this workshop, we discuss both theoretical and applied aspects of CRL, which 
 - **Causal representation learning in recommendation systems**
 
 
-# Tentative Invited Speakers and Panelists
+# Keynote Speakers
 
 {% include team.html id="speakers" %}
 
