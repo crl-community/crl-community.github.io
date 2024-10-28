@@ -25,7 +25,7 @@ We welcome submissions related to, but not limited to, the following key areas:
 #### Format and Length:
 All submissions must be in PDF format. Each submission is limited to four content pages, including all figures and tables. There is no limit on additional pages containing references and supplementary materials. Please note that reviewers are not required to read the supplementary materials. The camera-ready versions of accepted papers may include up to five content pages. Submissions should adhere to the ICDM 2024 LaTeX style file. Please submit your manuscripts on [Open Reivew](https://openreview.net/group?id=IEEE.org/ICDM/Workshop/CRL)
 #### Dual-submission Policy:
-We welcome ongoing and unpublished work. Submissions may include papers currently under review or those that have been recently accepted to other venues without published proceedings.
+We welcome ongoing and unpublished work. By the unique ICDM tradition, all accepted workshop papers will be published in the dedicated ICDMW proceedings published by the IEEE Computer Society Press.
 #### Visibility:
 The review process is confidential. Submissions and reviews will remain private, and only accepted papers will be made publicly available on the workshop website.
 #### Double-blind Reviewing:
