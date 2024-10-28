@@ -6,65 +6,24 @@ permalink: /icdm24
 
 speakers:
 
-  - name: Mihaela van der Schaar
-    url: https://www.vanderschaar-lab.com/
-    topic: 
-    aff: University of Cambridge
-    interest: 
-    image: assets/images/mihaela.png
+   - name: Jiuyong Li
+     url: https://people.unisa.edu.au/jiuyong.li
+     topic: 
+     aff: University of South Australia
+     image: assets/images/jiuyong.jpg
 
+   - name: Kun Zhang
+     url: https://www.andrew.cmu.edu/user/kunz1/index.html
+     topic: 
+     aff: Carnegie Mellon University & Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+     image: assets/images/kun.jpg   
 
-  - name: Yan Liu
-    url: https://sites.google.com/view/yanliu-ai/home
-    topic: 
-    aff: University of Southern California
-    interest: 
-    image: assets/images/YanLiu.png 
+   - name: Xiao-Hua Zhou
+     url: https://sph.pku.edu.cn/info/1416/4185.htm
+     topic: 
+     aff: Peking University
+     image: assets/images/xiaohua.jpg 
 
-
-  - name: Ricardo Silva
-    url: https://www.homepages.ucl.ac.uk/~ucgtrbd/
-    topic: 
-    aff: University College London
-    interest: 
-    image: assets/images/ricardo.png 
-
-  - name: Qingyuan Zhao
-    url: https://www.statslab.cam.ac.uk/~qz280/
-    topic: 
-    aff: University of Cambridge
-    interest: 
-    image: assets/images/qingyuan.png 
-
-  - name: Biwei Huang
-    url: https://biweihuang.com/
-    topic: 
-    aff: University of California, San Diego, USA
-    interest: 
-    image: assets/images/biwei.png 
-
-  - name: Jean-Francois Ton
-    url:  https://savior287.github.io/JFT-webpage/
-    topic: 
-    aff: ByteDance Research, UK
-    interest: 
-    image: assets/images/jean.png 
-
-
-  - name: Cheng Zhang
-    url:  https://cheng-zhang.org/
-    topic: 
-    aff: Microsoft Research, UK
-    interest: 
-    image: assets/images/chengzhang.png 
-
-
-  - name: Ruocheng Guo
-    url:  https://rguo12.github.io/
-    topic: 
-    aff: ByteDance Research, UK
-    interest: 
-    image: assets/images/ruocheng.png 
 
 
   # - name: Kyle Cranmer  
