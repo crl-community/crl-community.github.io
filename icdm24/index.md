@@ -5,24 +5,23 @@ permalink: /icdm24
 
 
 speakers:
+  - name: Jiuyong Li
+    url: https://people.unisa.edu.au/jiuyong.li
+    topic: 
+    aff: University of South Australia
+    image: assets/images/jiuyong.jpg
 
-   - name: Jiuyong Li
-     url: https://people.unisa.edu.au/jiuyong.li
-     topic: 
-     aff: University of South Australia
-     image: assets/images/jiuyong.jpg
+  - name: Kun Zhang
+    url: https://www.andrew.cmu.edu/user/kunz1/index.html
+    topic: 
+    aff: Carnegie Mellon University & Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+    image: assets/images/kun.jpg   
 
-   - name: Kun Zhang
-     url: https://www.andrew.cmu.edu/user/kunz1/index.html
-     topic: 
-     aff: Carnegie Mellon University & Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
-     image: assets/images/kun.jpg   
-
-   - name: Xiao-Hua Zhou
-     url: https://sph.pku.edu.cn/info/1416/4185.htm
-     topic: 
-     aff: Peking University
-     image: assets/images/xiaohua.jpg 
+  - name: Xiao-Hua Zhou
+    url: https://sph.pku.edu.cn/info/1416/4185.htm
+    topic: 
+    aff: Peking University
+    image: assets/images/xiaohua.jpg 
 
 
 
