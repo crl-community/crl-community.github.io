@@ -502,7 +502,7 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 - **11:00-11:10 AM:** Contributed Talk 4 by Xinghang Hu, Sichuan University (Title:   M3-InvRL: Multimedia Model Merging Invariant Representation Learning for Recommendation)
 - **11:10-11:20 AM:** Contributed Talk 5 by Haotian Wang, National University of Defense Technology (Title: Learning Feasible Causal Algorithmic Recourse without Prior Structure)
 - **11:20-11:30 AM:** Contributed Talk 6 by Meilin Wang, Renmin University of China (Title: Projection Pursuit Based Density Ratio Estimation)
-- **11:30-12:00 AM:** Panel discussion
+- **11:30-12:00 PM:** Panel discussion
 - **12:00-12:10 PM:** Closing Remarks
 
 

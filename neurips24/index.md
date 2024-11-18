@@ -34,7 +34,7 @@ speakers:
     url: https://sites.stat.washington.edu/tsr/website/inquiry/home.php
     aff: University of Washington
     status: tentative
-    image: assets/images/Thomas.png 
+    image: assets/images/Thomas.jpeg
     
   - name: Bernhard Schölkopf
     url: https://is.mpg.de/~bs
