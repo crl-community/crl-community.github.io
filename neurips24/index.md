@@ -18,17 +18,23 @@ speakers:
     status: confirmed
     image: assets/images/arthur.png
     
-  - name: Dominik Janzing (tentative)
-    url: https://janzing.github.io/
-    aff: Amazon Research
+  - name: James M. Robins (tentative)
+    url: https://www.hsph.harvard.edu/profile/james-m-robins/
+    aff: Harvard University
     status: tentative
-    image: assets/images/dominik.jpeg
+    image: assets/images/Robins.jpeg
 
   - name: Yan Liu
-    url: https://sites.google.com/view/yanliu-ai/hom
+    url: https://sites.google.com/view/yanliu-ai/home
     aff: University of Southern California
     status: confirmed
     image: assets/images/YanLiu.png 
+    
+  - name: Thomas Richardson (tentative)
+    url: https://sites.stat.washington.edu/tsr/website/inquiry/home.php
+    aff: University of Washington
+    status: tentative
+    image: assets/images/Thomas.png 
     
   - name: Bernhard Schölkopf
     url: https://is.mpg.de/~bs
@@ -41,8 +47,6 @@ speakers:
     aff: Microsoft Research
     status: confirmed speaker only
     image: assets/images/cheng.jpg
-
-
 
 Panelist:
 
@@ -80,13 +84,13 @@ Panelist:
     status: confirmed
     image: assets/images/mihaela.png
     
-  - name: Julius von Kügelgen
-    url: https://www.juliusvonkugelgen.com/
-    topic: 
-    aff: ETH Zürich
-    interest: 
-    status: confirmed
-    image: assets/images/julius.jpg
+  # - name: Julius von Kügelgen
+  #   url: https://www.juliusvonkugelgen.com/
+  #   topic: 
+  #   aff: ETH Zürich
+  #   interest: 
+  #   status: confirmed
+  #   image: assets/images/julius.jpg
   
   # - name: Luigi Gresele
   #   url: https://lgresele.github.io/
@@ -202,15 +206,15 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 # Tentative Schedule
 
-- **9:00-9:05 AM:** Welcome remarks
-- **9:05-9:35 AM:** Invited Talk 1
-- **9:35-10:05 AM:** Invited Talk 2
-- **10:05-10:30 AM:** Coffee Break
-- **10:30-11:00 AM:** Invited Talk 3
-- **11:00-11:15 AM:** Contributed Talk 1
-- **11:15-11:30 AM:** Contributed Talk 2
-- **11:30-12:30 PM:** Poster Session
-- **12:30-2:00 PM:** Lunch Break
+- **8:40-8:45 AM:** Welcome remarks
+- **8:45-9:15 AM:** Invited Talk 1
+- **9:15-9:45 AM:** Invited Talk 2
+- **9:45-10:00 AM:** Coffee Break
+- **10:00-10:30 AM:** Invited Talk 3
+- **10:30-10:45 AM:** Contributed Talk 1
+- **10:45-11:00 AM:** Contributed Talk 2
+- **11:00-12:00 PM:** Poster Session
+- **12:00-2:00 PM:** Lunch Break
 - **2:00-2:30 PM:** Invited Talk 4
 - **2:30-3:00 PM:** Invited Talk 5
 - **3:00-3:30 PM:** Coffee Break

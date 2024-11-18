@@ -490,26 +490,20 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 # Tentative Schedule
 
-**13:30-13:35 PM:** Welcome remarks
-
-### Session 1: Theoretical Aspects of CRL
-- **13:35-14:05 PM:** Invited Talk 1
-- **14:05-14:15 PM:** Contributed Talk 1
-- **14:15-14:45 PM:** Invited Talk 2
-- **14:45-14:55 PM:** Contributed Talk 2
-- **14:55-15:25 PM:** Invited Talk 3
-- **15:25-15:35 PM:** Contributed Talk 3
-
-### Session 2: Applied Aspects of CRL
-- **15:35-16:05 PM:** Invited Talk 4
-- **16:05-16:15 PM:** Contributed Talk 4
-- **16:15-16:45 PM:** Invited Talk 5
-- **16:45-16:55 PM:** Contributed Talk 5
-- **16:55-17:25 PM:** Invited Talk 6
-- **17:25-17:35 PM:** Contributed Talk 6
-
-### Session 3: Panel Discussion
-- **17:35-18:00 PM:** Panel discussion
+**8:00-8:05 PM:** Welcome Remarks
+**8:05-8:35 PM:** Keynote Talk 1 by Prof. Xiao-Hua Zhou, Peking University
+**8:35-9:05 PM:** Keynote Talk 2 by Prof. Jiuyong Li, University of South Australia
+**9:05-9:15 PM:** Contributed Talk 1 by Tianjun Yao, MBZUAI (Title: Learning Invariant Features on Graphs by Disentangling Spurious Features)
+**9:15-9:25 PM:** Contributed Talk 2 by Chunyuan Zheng, Peking University (Title: UMVUE-DR: Uniformly Minimum Variance Unbiased Doubly Robust Learning with Reduced Bias and Variance for Debiased Recommendation)
+**9:25-9:55 PM:** Keynote Talk 3 by Prof. Kun Zhang, CMU and MBZUAI
+**9:55-10:05 PM:** Contributed Talk 3 by Han Qiao, South China Normal University (Title: Deep Entire Space Cross Networks for Estimating Treatment Effect Under Unmeasured Confounding)
+**10:05-10:30 PM:** Coffee Break
+**10:30-11:00 PM:** Keynote Talk 4 by Prof. Amin Beheshti, Macquarie University
+**11:00-11:10 PM:** Contributed Talk 4 by Xinghang Hu, Sichuan University (Title:   M3-InvRL: Multimedia Model Merging Invariant Representation Learning for Recommendation)
+**11:10-11:20 PM:** Contributed Talk 5 by Haotian Wang, National University of Defense Technology (Title: Learning Feasible Causal Algorithmic Recourse without Prior Structure)
+**11:20-11:30 PM:** Contributed Talk 6 by Meilin Wang, Renmin University of China (Title: Projection Pursuit Based Density Ratio Estimation)
+**11:30-12:00 PM:** Panel discussion
+**12:00-12:10 PM:** Closing Remarks
 
 
 # Important Dates (Anywhere on Earth)
