@@ -5,6 +5,12 @@ permalink: /icdm24
 
 
 speakers:
+  - name: Amin Bheshti
+    url: https://researchers.mq.edu.au/en/persons/amin-beheshti
+    topic: 
+    aff: Macquarie University
+    image: assets/images/Amin.webp
+    
   - name: Jiuyong Li
     url: https://people.unisa.edu.au/jiuyong.li
     topic: 
@@ -22,8 +28,6 @@ speakers:
     topic: 
     aff: Peking University
     image: assets/images/xiaohua.jpg 
-
-
 
   # - name: Kyle Cranmer  
   #   url: https://www.physics.wisc.edu/directory/cranmer-kyle/ 
@@ -492,13 +496,13 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 - **8:00-8:05 AM:** Welcome Remarks
 - **8:05-8:35 AM:** Keynote Talk 1 by Prof. Xiao-Hua Zhou, Peking University
-- **8:35-9:05 AM:** Keynote Talk 2 by Prof. Jiuyong Li, University of South Australia
+- **8:35-9:05 AM:** Keynote Talk 2 by Prof. Amin Beheshti, Macquarie University
 - **9:05-9:15 AM:** Contributed Talk 1 by Tianjun Yao, MBZUAI (Title: Learning Invariant Features on Graphs by Disentangling Spurious Features)
 - **9:15-9:25 AM:** Contributed Talk 2 by Chunyuan Zheng, Peking University (Title: UMVUE-DR: Uniformly Minimum Variance Unbiased Doubly Robust Learning with Reduced Bias and Variance for Debiased Recommendation)
 - **9:25-9:55 AM:** Keynote Talk 3 by Prof. Kun Zhang, CMU and MBZUAI
 - **9:55-10:05 AM:** Contributed Talk 3 by Han Qiao, South China Normal University (Title: Deep Entire Space Cross Networks for Estimating Treatment Effect Under Unmeasured Confounding)
 - **10:05-10:30 AM:** Coffee Break
-- **10:30-11:00 AM:** Keynote Talk 4 by Prof. Amin Beheshti, Macquarie University
+- **10:30-11:00 AM:** Keynote Talk 4 by Prof. Jiuyong Li, University of South Australia
 - **11:00-11:10 AM:** Contributed Talk 4 by Xinghang Hu, Sichuan University (Title:   M3-InvRL: Multimedia Model Merging Invariant Representation Learning for Recommendation)
 - **11:10-11:20 AM:** Contributed Talk 5 by Haotian Wang, National University of Defense Technology (Title: Learning Feasible Causal Algorithmic Recourse without Prior Structure)
 - **11:20-11:30 AM:** Contributed Talk 6 by Meilin Wang, Renmin University of China (Title: Projection Pursuit Based Density Ratio Estimation)

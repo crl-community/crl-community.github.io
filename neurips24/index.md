@@ -29,18 +29,18 @@ speakers:
     aff: University of Southern California
     status: confirmed
     image: assets/images/YanLiu.png 
-    
-  - name: Thomas Richardson (tentative)
-    url: https://sites.stat.washington.edu/tsr/website/inquiry/home.php
-    aff: University of Washington
-    status: tentative
-    image: assets/images/Thomas.jpeg
-    
+  
   - name: Bernhard Schölkopf
     url: https://is.mpg.de/~bs
     aff: Max Planck Institute for Intelligent Systems
     status: confirmed
     image: assets/images/bernhard.jpg
+    
+  - name: Ilya Shpitser (tentative)
+    url: https://engineering.jhu.edu/faculty/ilya-shpitser/
+    aff: Johns Hopkins University
+    status: tentative
+    image: assets/images/Ilya.jpg
     
   - name: Cheng Zhang
     url: https://cheng-zhang.org/
