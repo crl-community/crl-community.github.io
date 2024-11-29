@@ -6,6 +6,12 @@ permalink: /neurips24
 
 speakers:
 
+  - name: Elias Bareinboim (tentative)
+    url: https://causalai.net/
+    aff: Columbia Universit
+    status: tentative
+    image: assets/images/elias.jpeg
+
   - name: Frederick Eberhardt
     url: https://www.its.caltech.edu/~fehardt/
     aff: California Institute of Technology
@@ -17,12 +23,6 @@ speakers:
     aff: Gatsby Computational Neuroscience Unit / UCL / Google Deepmind
     status: confirmed
     image: assets/images/arthur.png
-    
-  - name: James M. Robins (tentative)
-    url: https://www.hsph.harvard.edu/profile/james-m-robins/
-    aff: Harvard University
-    status: tentative
-    image: assets/images/Robins.jpeg
 
   - name: Yan Liu
     url: https://sites.google.com/view/yanliu-ai/home
@@ -41,6 +41,12 @@ speakers:
     aff: Johns Hopkins University
     status: tentative
     image: assets/images/Ilya.jpg
+    
+  - name: Caroline Uhler (tentative)
+    url: https://www.carolineuhler.com/
+    aff: Massachusetts Institute of Technology
+    status: tentative
+    image: assets/images/Uhler.web
     
   - name: Cheng Zhang
     url: https://cheng-zhang.org/
@@ -99,7 +105,13 @@ Panelist:
   #   interest: 
   #   status: confirmed
   #   image: assets/images/luigi.jpg
-
+  
+  
+  # - name: James M. Robins (tentative)
+  #   url: https://www.hsph.harvard.edu/profile/james-m-robins/
+  #   aff: Harvard University
+  #   status: tentative
+  #   image: assets/images/Robins.jpeg
 
 
 
