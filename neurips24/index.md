@@ -6,17 +6,17 @@ permalink: /neurips24
 
 speakers:
 
-  - name: Elias Bareinboim (tentative)
-    url: https://causalai.net/
-    aff: Columbia Universit
-    status: tentative
-    image: assets/images/elias.jpeg
+  # - name: Elias Bareinboim (tentative)
+  #   url: https://causalai.net/
+  #   aff: Columbia Universit
+  #   status: tentative
+  #   image: assets/images/elias.jpeg
 
-  - name: Frederick Eberhardt
-    url: https://www.its.caltech.edu/~fehardt/
-    aff: California Institute of Technology
-    status: confirmed
-    image: assets/images/frederick.jpg
+  # - name: Frederick Eberhardt
+  #   url: https://www.its.caltech.edu/~fehardt/
+  #   aff: California Institute of Technology
+  #   status: confirmed
+  #   image: assets/images/frederick.jpg
     
   - name: Arthur Gretton
     url: https://www.gatsby.ucl.ac.uk/~gretton/
@@ -36,17 +36,17 @@ speakers:
     status: confirmed
     image: assets/images/bernhard.jpg
     
-  - name: Ilya Shpitser (tentative)
+  - name: Ilya Shpitser 
     url: https://engineering.jhu.edu/faculty/ilya-shpitser/
     aff: Johns Hopkins University
     status: tentative
     image: assets/images/Ilya.jpg
     
-  - name: Caroline Uhler (tentative)
+  - name: Caroline Uhler 
     url: https://www.carolineuhler.com/
     aff: Massachusetts Institute of Technology
     status: tentative
-    image: assets/images/Uhler.web
+    image: assets/images/Uhler.webp
     
   - name: Cheng Zhang
     url: https://cheng-zhang.org/
@@ -90,13 +90,13 @@ Panelist:
     status: confirmed
     image: assets/images/mihaela.png
     
-  # - name: Julius von Kügelgen
-  #   url: https://www.juliusvonkugelgen.com/
-  #   topic: 
-  #   aff: ETH Zürich
-  #   interest: 
-  #   status: confirmed
-  #   image: assets/images/julius.jpg
+  - name: Julius von Kügelgen
+    url: https://www.juliusvonkugelgen.com/
+    topic: 
+    aff: ETH Zürich
+    interest: 
+    status: confirmed
+    image: assets/images/julius.jpg
   
   # - name: Luigi Gresele
   #   url: https://lgresele.github.io/
