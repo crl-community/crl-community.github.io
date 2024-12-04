@@ -78,7 +78,7 @@ Panelist:
 
   - name: Ricardo Silva
     url: https://www.ucl.ac.uk/statistics/people/ricardosilva
-    aff: Department of Statistical Science, UCL / Gatsby Computational Neuroscience
+    aff: University College London
     status: confirmed panelist only
     image: assets/images/ricardo.jpg
     
