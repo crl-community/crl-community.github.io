@@ -197,11 +197,11 @@ The goal of this workshop is to explore the challenges and opportunities in this
 - **Benchmarking causal representation learning**
 
 
-# Tentative Invited Speakers (Ranked by the last name)
+# Invited Speakers (Ranked by the last name)
 
 {% include team.html id="speakers" %}
 
-# Tentative Panelists (Ranked by the last name)
+# Panelists (Ranked by the last name)
 
 {% include team.html id="Panelist" %} 
 
@@ -216,23 +216,23 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 <!-- {% include team.html id="opencatalyst" %} -->
 
 
-# Tentative Schedule
+# Schedule
 
 - **8:40-8:45 AM:** Welcome remarks
-- **8:45-9:15 AM:** Invited Talk 1
-- **9:15-9:45 AM:** Invited Talk 2
+- **8:45-9:15 AM:** Invited Talk 1 by Arthur Gretton (Title: Learning to Act in Noisy Contexts Using Deep Proxy Learning)
+- **9:15-9:45 AM:** Invited Talk 2 by Bernhard Schölkopf (Title: TBA)
 - **9:45-10:00 AM:** Coffee Break
-- **10:00-10:30 AM:** Invited Talk 3
-- **10:30-10:45 AM:** Contributed Talk 1
-- **10:45-11:00 AM:** Contributed Talk 2
+- **10:00-10:30 AM:** Invited Talk 3 by Cheng Zhang (Title: Towards Causal Foundation Model)
+- **10:30-10:45 AM:** Contributed Talk 1 (Title: On Domain Generalization Datasets as Proxy Benchmarks for Causal Representation Learning)
+- **10:45-11:00 AM:** Contributed Talk 2 (Title: Uncovering Latent Causal Structures from Spatiotemporal Data)
 - **11:00-12:00 PM:** Poster Session
 - **12:00-2:00 PM:** Lunch Break
-- **2:00-2:30 PM:** Invited Talk 4
-- **2:30-3:00 PM:** Invited Talk 5
+- **2:00-2:30 PM:** Invited Talk 4 by Caroline Uhler (Title: TBA)
+- **2:30-3:00 PM:** Invited Talk 5 by Yan Li (Title: Frontiers of Counterfactual Outcome Estimation in Time Series )
 - **3:00-3:30 PM:** Coffee Break
-- **3:30-4:00 PM:** Invited Talk 6
-- **4:00-4:15 PM:** Contributed Talk 3
-- **4:15-4:30 PM:** Contributed Talk 4
+- **3:30-4:00 PM:** Invited Talk 6 by Ilya Shpitser (Title: Missing Data with ? and 0 Missingness Tokens: Identification and Estimation)
+- **4:00-4:15 PM:** Contributed Talk 3 (Title: A Shadow Variable Approach to Causal Decision Making with One-sided Feedback)
+- **4:15-4:30 PM:** Contributed Talk 4 (Title: Uncertainty-Aware Optimal Treatment Selection for Clinical Time Series)
 - **4:30-5:20 PM:** Panel Discussion
 - **5:20-5:30 PM:** Closing Remarks
 
