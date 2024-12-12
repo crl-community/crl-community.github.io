@@ -504,7 +504,7 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 - **10:35-11:00 AM:** Coffee Break
 - **11:00-11:30 AM:** Keynote Talk 4 by Prof. Jiuyong Li, University of South Australia
 - **11:30-11:40 AM:** Contributed Talk 4 by Xinghang Hu, Sichuan University (Title:   M3-InvRL: Multimedia Model Merging Invariant Representation Learning for Recommendation)
-- **11:40-11:50 AM:** Contributed Talk 5 by Haotian Wang, National University of Defense Technology (Title: Learning Feasible Causal Algorithmic Recourse without Prior Structure)
+- **11:40-11:50 AM:** Contributed Talk 5 by Haotian Wang, National University of Defense Technology (Title: Learning Feasible Causal Algorithmic Recourse without Prior Structure, **Best Paper Award**)
 - **11:50-12:00 AM:** Contributed Talk 6 by Meilin Wang, Renmin University of China (Title: Projection Pursuit Based Density Ratio Estimation)
 - **12:00-12:30 PM:** Panel discussion
 - **12:30-12:40 PM:** Closing Remarks
