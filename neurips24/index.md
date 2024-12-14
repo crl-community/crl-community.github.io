@@ -64,11 +64,11 @@ Panelist:
     status: confirmed
     image: assets/images/Mingming.jpg
     
-  - name: Emre Kıcıman
-    url: https://kiciman.org/
-    aff: Microsoft Research
-    status: confirmed panelist
-    image: assets/images/emre.jpg
+  # - name: Emre Kıcıman
+  #   url: https://kiciman.org/
+  #   aff: Microsoft Research
+  #   status: confirmed panelist
+  #   image: assets/images/emre.jpg
     
   - name: Jing Ma 
     url: https://jma712.github.io/
@@ -90,13 +90,13 @@ Panelist:
     status: confirmed
     image: assets/images/mihaela.png
     
-  - name: Julius von Kügelgen
-    url: https://www.juliusvonkugelgen.com/
-    topic: 
-    aff: ETH Zürich
-    interest: 
-    status: confirmed
-    image: assets/images/julius.jpg
+  # - name: Julius von Kügelgen
+  #   url: https://www.juliusvonkugelgen.com/
+  #   topic: 
+  #   aff: ETH Zürich
+  #   interest: 
+  #   status: confirmed
+  #   image: assets/images/julius.jpg
   
   # - name: Luigi Gresele
   #   url: https://lgresele.github.io/
@@ -220,7 +220,7 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 - **8:40-8:45 AM:** Welcome remarks
 - **8:45-9:15 AM:** Invited Talk 1 by Arthur Gretton (Title: Learning to Act in Noisy Contexts Using Deep Proxy Learning)
-- **9:15-9:45 AM:** Invited Talk 2 by Bernhard Schölkopf (Title: TBA)
+- **9:15-9:45 AM:** Invited Talk 2 by Bernhard Schölkopf (Title: What Is a Causal Representation?)
 - **9:45-10:00 AM:** Coffee Break
 - **10:00-10:30 AM:** Invited Talk 3 by Cheng Zhang (Title: Towards Causal Foundation Model)
 - **10:30-10:45 AM:** Contributed Talk 1 (Title: On Domain Generalization Datasets as Proxy Benchmarks for Causal Representation Learning)
