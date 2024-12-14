@@ -64,6 +64,11 @@ Panelist:
     status: confirmed
     image: assets/images/Mingming.jpg
     
+  - name: Francesco Locatello
+    url: https://www.francescolocatello.com/
+    aff: Institute of Science and Technology Austria
+    image: assets/images/francesco.jpeg
+    
   # - name: Emre Kıcıman
   #   url: https://kiciman.org/
   #   aff: Microsoft Research
@@ -82,13 +87,13 @@ Panelist:
     status: confirmed panelist only
     image: assets/images/ricardo.jpg
     
-  - name: Mihaela van der Schaar
-    url: https://www.vanderschaar-lab.com/
-    topic: 
-    aff: University of Cambridge
-    interest: 
-    status: confirmed
-    image: assets/images/mihaela.png
+  # - name: Mihaela van der Schaar
+  #   url: https://www.vanderschaar-lab.com/
+  #   topic: 
+  #   aff: University of Cambridge
+  #   interest: 
+  #   status: confirmed
+  #   image: assets/images/mihaela.png
     
   # - name: Julius von Kügelgen
   #   url: https://www.juliusvonkugelgen.com/
