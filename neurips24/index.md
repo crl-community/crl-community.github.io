@@ -42,12 +42,6 @@ speakers:
     status: tentative
     image: assets/images/Ilya.jpg
     
-  - name: Caroline Uhler 
-    url: https://www.carolineuhler.com/
-    aff: Massachusetts Institute of Technology
-    status: tentative
-    image: assets/images/Uhler.webp
-    
   - name: Cheng Zhang
     url: https://cheng-zhang.org/
     aff: Microsoft Research
@@ -236,14 +230,13 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 - **10:45-11:00 AM:** Contributed Talk 2 (Title: Uncovering Latent Causal Structures from Spatiotemporal Data)
 - **11:00-12:00 PM:** Poster Session
 - **12:00-2:00 PM:** Lunch Break
-- **2:00-2:30 PM:** Invited Talk 4 by Caroline Uhler (Title: TBA)
-- **2:30-3:00 PM:** Invited Talk 5 by Yan Liu (Title: Frontiers of Counterfactual Outcome Estimation in Time Series )
+- **2:00-2:30 PM:** Invited Talk 4 by Yan Liu (Title: Frontiers of Counterfactual Outcome Estimation in Time Series )
+- **2:30-3:00 PM:** Invited Talk 5 by Ilya Shpitser (Title: Missing Data with ? and 0 Missingness Tokens: Identification and Estimation)
 - **3:00-3:30 PM:** Coffee Break
-- **3:30-4:00 PM:** Invited Talk 6 by Ilya Shpitser (Title: Missing Data with ? and 0 Missingness Tokens: Identification and Estimation)
-- **4:00-4:15 PM:** Contributed Talk 3 (Title: A Shadow Variable Approach to Causal Decision Making with One-sided Feedback)
-- **4:15-4:30 PM:** Contributed Talk 4 (Title: Uncertainty-Aware Optimal Treatment Selection for Clinical Time Series)
-- **4:30-5:20 PM:** Panel Discussion
-- **5:20-5:30 PM:** Closing Remarks
+- **3:30-3:45 PM:** Contributed Talk 3 (Title: A Shadow Variable Approach to Causal Decision Making with One-sided Feedback)
+- **3:45-4:00 PM:** Contributed Talk 4 (Title: Uncertainty-Aware Optimal Treatment Selection for Clinical Time Series)
+- **4:00-4:50 PM:** Panel Discussion
+- **4:50-5:00 PM:** Closing Remarks
 
 
 # Important Dates (Anywhere on Earth,TBD)
