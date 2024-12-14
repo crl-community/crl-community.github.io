@@ -215,6 +215,10 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 <!-- {% include team.html id="opencatalyst" %} -->
 
+# Location
+
+**East Exhibition Hall C**
+
 
 # Schedule
 
@@ -228,7 +232,7 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 - **11:00-12:00 PM:** Poster Session
 - **12:00-2:00 PM:** Lunch Break
 - **2:00-2:30 PM:** Invited Talk 4 by Caroline Uhler (Title: TBA)
-- **2:30-3:00 PM:** Invited Talk 5 by Yan Li (Title: Frontiers of Counterfactual Outcome Estimation in Time Series )
+- **2:30-3:00 PM:** Invited Talk 5 by Yan Liu (Title: Frontiers of Counterfactual Outcome Estimation in Time Series )
 - **3:00-3:30 PM:** Coffee Break
 - **3:30-4:00 PM:** Invited Talk 6 by Ilya Shpitser (Title: Missing Data with ? and 0 Missingness Tokens: Identification and Estimation)
 - **4:00-4:15 PM:** Contributed Talk 3 (Title: A Shadow Variable Approach to Causal Decision Making with One-sided Feedback)
