@@ -221,7 +221,7 @@ Over the past two years, the Open Catalyst Challenge has focused on the central 
 
 # Schedule
 
-- **8:40-8:45 AM:** Welcome remarks
+- **8:30-8:45 AM:** Welcome remarks
 - **8:45-9:15 AM:** Invited Talk 1 by Arthur Gretton (Title: Learning to Act in Noisy Contexts Using Deep Proxy Learning)
 - **9:15-9:45 AM:** Invited Talk 2 by Bernhard Schölkopf (Title: What Is a Causal Representation?)
 - **9:45-10:00 AM:** Coffee Break
